@@ -1,0 +1,51 @@
+.toc {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  color: var(--color-text);
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.list li {
+  margin-bottom: 0.75rem;
+}
+
+.list li a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color 0.2s ease;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.list li a:hover {
+  color: var(--color-secondary);
+}
+
+.subItem {
+  margin-left: 1rem;
+  font-size: 0.95rem;
+}
+
+.subItem a {
+  color: var(--color-text-light);
+}
+
+@media (max-width: 968px) {
+  .toc {
+    position: static;
+    margin-bottom: 2rem;
+  }
+}
