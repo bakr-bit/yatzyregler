@@ -4,6 +4,20 @@ import type { NextRequest } from 'next/server';
 export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
+  // Allow access to login page and auth API
+  if (pathname === '/login' || pathname.startsWith('/api/auth')) {
+    return NextResponse.next();
+  }
+
+  // Check for authentication cookie
+  const authCookie = request.cookies.get('site-auth');
+
+  if (!authCookie || authCookie.value !== 'authenticated') {
+    // Redirect to login page if not authenticated
+    const loginUrl = new URL('/login', request.url);
+    return NextResponse.redirect(loginUrl);
+  }
+
   // Block all Danish subpages (but allow /da homepage)
   if (pathname.startsWith('/da/')) {
     return new NextResponse('Gone', { status: 410 });
