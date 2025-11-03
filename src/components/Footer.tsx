@@ -60,6 +60,7 @@ export default function Footer() {
             <ul>
               <li><Link href="/kontakt">Kontakt</Link></li>
               <li><Link href="/privacy-policy">Privacy Policy</Link></li>
+              <li><Link href="/casino-utan-svensk-licens">Casino utan svensk licens</Link></li>
             </ul>
           </div>
         </div>
