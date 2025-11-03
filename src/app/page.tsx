@@ -46,7 +46,7 @@ export async function generateMetadata() {
     },
   };
 }
-
+// Generate metadata for SEO
 export default async function Home() {
   // Load multiple articles for the homepage
   const articles = [

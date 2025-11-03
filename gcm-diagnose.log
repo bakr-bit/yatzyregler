@@ -1,0 +1,159 @@
+﻿Diagnose log at 2025-11-03T03:08:43Z
+
+AppPath: /usr/local/bin/git-credential-manager
+InstallDir: /usr/local/share/gcm-core/
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: macOS
+OSVersion: 15.2.0
+Reading environment variables... OK
+ Variables:
+NVM_BIN=/Users/simon/.nvm/versions/node/v24.2.0/bin
+LaunchInstanceID=31A36DB9-9D8C-414A-AE50-0951CE6C034E
+TERM_PROGRAM=Apple_Terminal
+CONDA_PROMPT_MODIFIER=(base) 
+CONDA_PREFIX=/Users/simon/miniconda3
+CONDA_DEFAULT_ENV=base
+__CF_USER_TEXT_ENCODING=0x1F5:0x0:0x7
+__CFBundleIdentifier=com.apple.Terminal
+NVM_CD_FLAGS=-q
+SHLVL=1
+TERM=xterm-256color
+NVM_INC=/Users/simon/.nvm/versions/node/v24.2.0/include/node
+TMPDIR=/var/folders/y6/v3vxd4hs1913r6bqr5c4jrhr0000gn/T/
+INFOPATH=/opt/homebrew/share/info:
+PATH=/opt/homebrew/opt/git/libexec/git-core:/Users/simon/miniconda3/bin:/Users/simon/miniconda3/condabin:/Users/simon/Library/Application Support/Herd/bin:/Users/simon/Library/Application Support/Herd/bin:/Users/simon/Library/Application Support/Herd/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/simon/.nvm/versions/node/v24.2.0/bin:/Library/Frameworks/Python.framework/Versions/3.13/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/simon/.local/bin:/Users/simon/.local/bin
+LOGNAME=simon
+XPC_FLAGS=0x0
+HOMEBREW_REPOSITORY=/opt/homebrew
+CONDA_EXE=/Users/simon/miniconda3/bin/conda
+GIT_TRACE2_PARENT_SID=67faf7f9-c65e-4831-83c7-c9ee1e8670ae
+SECURITYSESSIONID=186a2
+XPC_SERVICE_NAME=0
+SHELL=/bin/zsh
+CONDA_SHLVL=1
+USER=simon
+TERM_PROGRAM_VERSION=455
+_=/opt/homebrew/bin/git
+NVM_DIR=/Users/simon/.nvm
+LANG=sv_SE.UTF-8
+GIT_EXEC_PATH=/opt/homebrew/opt/git/libexec/git-core
+HOME=/Users/simon
+HOMEBREW_PREFIX=/opt/homebrew
+TERM_SESSION_ID=2DD94B11-AC9A-4171-AC76-D653AC21AB57
+HOMEBREW_CELLAR=/opt/homebrew/Cellar
+PWD=/Users/simon/yatzy/scrape/nextjs-site
+OLDPWD=/Users/simon/yatzy/scrape
+CONDA_PYTHON_EXE=/Users/simon/miniconda3/bin/python
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.x2e5Wy2bpp/Listeners
+HERD_PHP_84_INI_SCAN_DIR=/Users/simon/Library/Application Support/Herd/config/php/84/
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is '/var/folders/y6/v3vxd4hs1913r6bqr5c4jrhr0000gn/T/'...
+Checking basic file I/O...
+Writing to temporary file '/var/folders/y6/v3vxd4hs1913r6bqr5c4jrhr0000gn/T/5f234dbdb10c59eb51f8f302'... OK
+Reading from temporary file '/var/folders/y6/v3vxd4hs1913r6bqr5c4jrhr0000gn/T/5f234dbdb10c59eb51f8f302'... OK
+Deleting temporary file '/var/folders/y6/v3vxd4hs1913r6bqr5c4jrhr0000gn/T/5f234dbdb10c59eb51f8f302'... OK
+Testing IFileSystem instance...
+UserHomePath: /Users/simon
+UserDataDirectoryPath: /Users/simon/.gcm
+GetCurrentDirectory(): /Users/simon/yatzy/scrape/nextjs-site
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:58152/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.50.0'
+Locating current repository...Git repository at '/Users/simon/yatzy/scrape/nextjs-site/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:/opt/homebrew/etc/gitconfig	credential.helper=osxkeychain
+file:/Users/simon/.gitconfig	user.email=simon.karlstrom@streamshorizon.com
+file:/Users/simon/.gitconfig	user.name=simonkpro
+file:/Users/simon/.gitconfig	credential.helper=
+file:/Users/simon/.gitconfig	credential.helper=/usr/local/share/gcm-core/git-credential-manager
+file:/Users/simon/.gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=true
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.ignorecase=true
+file:.git/config	core.precomposeunicode=true
+file:.git/config	remote.origin.url=https://github.com/bakr-bit/yatzyregler.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: /Users/simon/.local/.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: /Users/simon/.local/.IdentityService/msal.cache
+MacKeyChainAccountName: MSALCache
+MacKeyChainServiceName: Microsoft.Developer.IdentityService
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
