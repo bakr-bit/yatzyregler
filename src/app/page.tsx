@@ -19,6 +19,19 @@ export async function generateMetadata() {
   return {
     title: content.title,
     description: content.description,
+    openGraph: {
+      title: content.title,
+      description: content.description,
+      url: 'https://yatzyregler.com/',
+      siteName: 'Yatzy Regler',
+      locale: 'sv_SE',
+      type: 'website',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: content.title,
+      description: content.description,
+    },
     alternates: {
       canonical: 'https://yatzyregler.com/',
       languages: {

@@ -54,6 +54,19 @@ export async function generateMetadata({ params }: PageProps) {
     return {
       title: content.title,
       description: content.description,
+      openGraph: {
+        title: content.title,
+        description: content.description,
+        url: `https://yatzyregler.com/${slug}`,
+        siteName: 'Yatzy Regler',
+        locale: content.locale === 'da' ? 'da_DK' : content.locale === 'no' ? 'nb_NO' : content.locale === 'fi' ? 'fi_FI' : content.locale === 'es' ? 'es_ES' : 'en_US',
+        type: 'website',
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title: content.title,
+        description: content.description,
+      },
       alternates: {
         canonical: `https://yatzyregler.com/${slug}`,
         languages: {
@@ -90,6 +103,19 @@ export async function generateMetadata({ params }: PageProps) {
   return {
     title: content.title,
     description: content.description,
+    openGraph: {
+      title: content.title,
+      description: content.description,
+      url: `https://yatzyregler.com/${slug}`,
+      siteName: 'Yatzy Regler',
+      locale: 'sv_SE',
+      type: 'article',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: content.title,
+      description: content.description,
+    },
     alternates: {
       canonical: `https://yatzyregler.com/${slug}`,
       languages,
