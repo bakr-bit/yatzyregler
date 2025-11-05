@@ -22,7 +22,7 @@ export async function generateMetadata() {
     openGraph: {
       title: content.title,
       description: content.description,
-      url: 'https://yatzyregler.com/',
+      url: 'https://www.yatzyregler.com/',
       siteName: 'Yatzy Regler',
       locale: 'sv_SE',
       type: 'website',
@@ -33,15 +33,15 @@ export async function generateMetadata() {
       description: content.description,
     },
     alternates: {
-      canonical: 'https://yatzyregler.com/',
+      canonical: 'https://www.yatzyregler.com/',
       languages: {
-        'sv': 'https://yatzyregler.com/',
-        'da': 'https://yatzyregler.com/da',
-        'no': 'https://yatzyregler.com/no',
-        'fi': 'https://yatzyregler.com/fi',
-        'en': 'https://yatzyregler.com/yahtzee-rules',
-        'es': 'https://yatzyregler.com/es',
-        'x-default': 'https://yatzyregler.com/',
+        'sv': 'https://www.yatzyregler.com/',
+        'da': 'https://www.yatzyregler.com/da',
+        'no': 'https://www.yatzyregler.com/no',
+        'fi': 'https://www.yatzyregler.com/fi',
+        'en': 'https://www.yatzyregler.com/yahtzee-rules',
+        'es': 'https://www.yatzyregler.com/es',
+        'x-default': 'https://www.yatzyregler.com/',
       },
     },
   };

@@ -4,6 +4,14 @@ import type { NextRequest } from 'next/server';
 export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
+  // Redirect non-www to www (301)
+  const host = request.headers.get('host') || '';
+  if (host === 'yatzyregler.com' || host.startsWith('yatzyregler.com:')) {
+    const url = request.nextUrl.clone();
+    url.host = 'www.yatzyregler.com';
+    return NextResponse.redirect(url, { status: 301 });
+  }
+
   // Block all Danish subpages (but allow /da homepage)
   if (pathname.startsWith('/da/')) {
     return new NextResponse('Gone', { status: 410 });

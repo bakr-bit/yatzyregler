@@ -57,7 +57,7 @@ export async function generateMetadata({ params }: PageProps) {
       openGraph: {
         title: content.title,
         description: content.description,
-        url: `https://yatzyregler.com/${slug}`,
+        url: `https://www.yatzyregler.com/${slug}`,
         siteName: 'Yatzy Regler',
         locale: content.locale === 'da' ? 'da_DK' : content.locale === 'no' ? 'nb_NO' : content.locale === 'fi' ? 'fi_FI' : content.locale === 'es' ? 'es_ES' : 'en_US',
         type: 'website',
@@ -68,15 +68,15 @@ export async function generateMetadata({ params }: PageProps) {
         description: content.description,
       },
       alternates: {
-        canonical: `https://yatzyregler.com/${slug}`,
+        canonical: `https://www.yatzyregler.com/${slug}`,
         languages: {
-          'sv': 'https://yatzyregler.com/',
-          'da': 'https://yatzyregler.com/da',
-          'no': 'https://yatzyregler.com/no',
-          'fi': 'https://yatzyregler.com/fi',
-          'en': 'https://yatzyregler.com/yahtzee-rules',
-          'es': 'https://yatzyregler.com/es',
-          'x-default': 'https://yatzyregler.com/',
+          'sv': 'https://www.yatzyregler.com/',
+          'da': 'https://www.yatzyregler.com/da',
+          'no': 'https://www.yatzyregler.com/no',
+          'fi': 'https://www.yatzyregler.com/fi',
+          'en': 'https://www.yatzyregler.com/yahtzee-rules',
+          'es': 'https://www.yatzyregler.com/es',
+          'x-default': 'https://www.yatzyregler.com/',
         },
       },
     };
@@ -91,13 +91,13 @@ export async function generateMetadata({ params }: PageProps) {
   // Check if English translation exists
   const enContent = await getContentBySlug(slug, 'en');
   const languages: Record<string, string> = {
-    'sv': `https://yatzyregler.com/${slug}`,
-    'x-default': `https://yatzyregler.com/${slug}`,
+    'sv': `https://www.yatzyregler.com/${slug}`,
+    'x-default': `https://www.yatzyregler.com/${slug}`,
   };
 
   // Add English version if it exists
   if (enContent) {
-    languages['en'] = `https://yatzyregler.com/${slug}`;
+    languages['en'] = `https://www.yatzyregler.com/${slug}`;
   }
 
   return {
@@ -106,7 +106,7 @@ export async function generateMetadata({ params }: PageProps) {
     openGraph: {
       title: content.title,
       description: content.description,
-      url: `https://yatzyregler.com/${slug}`,
+      url: `https://www.yatzyregler.com/${slug}`,
       siteName: 'Yatzy Regler',
       locale: 'sv_SE',
       type: 'article',
@@ -117,7 +117,7 @@ export async function generateMetadata({ params }: PageProps) {
       description: content.description,
     },
     alternates: {
-      canonical: `https://yatzyregler.com/${slug}`,
+      canonical: `https://www.yatzyregler.com/${slug}`,
       languages,
     },
   };

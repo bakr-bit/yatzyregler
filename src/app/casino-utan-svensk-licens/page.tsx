@@ -97,7 +97,7 @@ export async function generateMetadata() {
     openGraph: {
       title: content.title,
       description: content.description,
-      url: 'https://yatzyregler.com/casino-utan-svensk-licens',
+      url: 'https://www.yatzyregler.com/casino-utan-svensk-licens',
       siteName: 'Yatzy Regler',
       locale: 'sv_SE',
       type: 'article',
@@ -108,10 +108,10 @@ export async function generateMetadata() {
       description: content.description,
     },
     alternates: {
-      canonical: 'https://yatzyregler.com/casino-utan-svensk-licens',
+      canonical: 'https://www.yatzyregler.com/casino-utan-svensk-licens',
       languages: {
-        'sv': 'https://yatzyregler.com/casino-utan-svensk-licens',
-        'x-default': 'https://yatzyregler.com/casino-utan-svensk-licens',
+        'sv': 'https://www.yatzyregler.com/casino-utan-svensk-licens',
+        'x-default': 'https://www.yatzyregler.com/casino-utan-svensk-licens',
       },
     },
   };

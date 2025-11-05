@@ -48,25 +48,25 @@ export function ArticleSchema({
     '@type': 'Article',
     headline: title,
     description: description,
-    url: `https://yatzyregler.com${url}`,
+    url: `https://www.yatzyregler.com${url}`,
     datePublished: publishedDate,
     dateModified: modifiedDate,
     author: {
       '@type': 'Person',
       name: authorName,
-      image: `https://yatzyregler.com${imageUrl}`,
+      image: `https://www.yatzyregler.com${imageUrl}`,
     },
     publisher: {
       '@type': 'Organization',
       name: 'Yatzyregler.com',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://yatzyregler.com/favicon.ico',
+        url: 'https://www.yatzyregler.com/favicon.ico',
       },
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://yatzyregler.com${url}`,
+      '@id': `https://www.yatzyregler.com${url}`,
     },
   };
 
@@ -110,7 +110,7 @@ export function AuthorSchema({
     '@type': 'Person',
     name: name,
     description: description,
-    image: `https://yatzyregler.com${imageUrl}`,
+    image: `https://www.yatzyregler.com${imageUrl}`,
     jobTitle: 'Yatzy Expert',
     worksFor: {
       '@type': 'Organization',

@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ['yatzyregler.com'],
+    domains: ['www.yatzyregler.com', 'yatzyregler.com'],
   },
 
   async redirects() {

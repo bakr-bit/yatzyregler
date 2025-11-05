@@ -6,7 +6,7 @@ import Footer from '@/components/Footer'
 export const metadata: Metadata = {
   title: 'Casino Utan Svensk Licens - Bästa Casino Utan Spelpaus 2025',
   description: 'Casino utan svensk licens och casino utan Spelpaus är online casinon du helt lagligt kan spela på som inte är en del av det svenska licenssystemet.',
-  metadataBase: new URL('https://yatzyregler.com'),
+  metadataBase: new URL('https://www.yatzyregler.com'),
   robots: {
     index: true,
     follow: true,
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     type: 'website',
     title: 'Casino Utan Svensk Licens - Bästa Casino Utan Spelpaus 2025',
     description: 'Casino utan svensk licens och casino utan Spelpaus är online casinon du helt lagligt kan spela på som inte är en del av det svenska licenssystemet.',
-    url: 'https://yatzyregler.com/',
+    url: 'https://www.yatzyregler.com/',
     siteName: 'Yatzy regler',
     images: [
       {
