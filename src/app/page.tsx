@@ -110,7 +110,7 @@ export default async function Home() {
             />
             <span className={styles.authorName}>Fredrik</span>
             <span className={styles.separator}>•</span>
-            <span className={styles.lastUpdated}>Last updated: 2025-11-01</span>
+            <span className={styles.lastUpdated}>Last updated: 2025-11-05</span>
           </div>
         </div>
         <svg className={styles.wave} viewBox="0 0 1440 120" preserveAspectRatio="none">
