@@ -6,6 +6,12 @@ const nextConfig = {
 
   async redirects() {
     return [
+      // Redirect English page from old URL to new URL
+      {
+        source: '/yahtzee-rules',
+        destination: '/en',
+        permanent: true, // 301 redirect
+      },
       // Redirect all Swedish casino pages to the main casino page
       {
         source: '/casino-pa-natet',

@@ -13,7 +13,7 @@ function getLocaleFromPath(pathname: string): string {
   if (pathname.startsWith('/da')) return 'da';
   if (pathname.startsWith('/no')) return 'no';
   if (pathname.startsWith('/fi')) return 'fi';
-  if (pathname.startsWith('/yahtzee-rules') || pathname.startsWith('/en')) return 'en';
+  if (pathname.startsWith('/en')) return 'en';
   if (pathname.startsWith('/es')) return 'es';
   return 'sv'; // default to Swedish
 }
@@ -50,7 +50,7 @@ export default function Footer() {
               <li><Link href="/da">🇩🇰 Dansk</Link></li>
               <li><Link href="/no">🇳🇴 Norsk</Link></li>
               <li><Link href="/fi">🇫🇮 Suomi</Link></li>
-              <li><Link href="/yahtzee-rules">🇺🇸 English</Link></li>
+              <li><Link href="/en">🇺🇸 English</Link></li>
               <li><Link href="/es">🇪🇸 Español</Link></li>
             </ul>
           </div>

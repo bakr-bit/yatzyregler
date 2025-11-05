@@ -74,7 +74,7 @@ export async function generateMetadata({ params }: PageProps) {
           'da': 'https://www.yatzyregler.com/da',
           'no': 'https://www.yatzyregler.com/no',
           'fi': 'https://www.yatzyregler.com/fi',
-          'en': 'https://www.yatzyregler.com/yahtzee-rules',
+          'en': 'https://www.yatzyregler.com/en',
           'es': 'https://www.yatzyregler.com/es',
           'x-default': 'https://www.yatzyregler.com/',
         },

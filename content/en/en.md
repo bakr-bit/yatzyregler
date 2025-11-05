@@ -10,9 +10,9 @@ In this guide, you'll find:
 • Expert tips and strategies to improve your score
 
 Get ready to roll the dice and take your Yahtzee skills to the next level. Let's dive into the rules and gameplay!"
-url: "/yahtzee-rules"
+url: "/en"
 locale: "en"
-slug: "yahtzee-rules"
+slug: "en"
 ---
 
 ## Yahtzee
