@@ -82,23 +82,43 @@ export async function generateMetadata({ params }: PageProps) {
     };
   }
 
-  // Otherwise treat as Swedish content
-  const content = await getContentBySlug(slug, 'sv');
+  // Otherwise treat as Swedish content, fallback to English
+  let content = await getContentBySlug(slug, 'sv');
+  let primaryLocale = 'sv';
+
+  // If not found in Swedish, try English
+  if (!content) {
+    content = await getContentBySlug(slug, 'en');
+    primaryLocale = 'en';
+  }
+
   if (!content) {
     return { title: 'Page Not Found' };
   }
 
-  // Check if English translation exists
-  const enContent = await getContentBySlug(slug, 'en');
-  const languages: Record<string, string> = {
-    'sv': `https://www.yatzyregler.com/${slug}`,
-    'x-default': `https://www.yatzyregler.com/${slug}`,
-  };
+  // Check if translations exist in all locales
+  const languages: Record<string, string> = {};
+  const allLocales = ['sv', 'da', 'no', 'fi', 'en', 'es'];
 
-  // Add English version if it exists
-  if (enContent) {
-    languages['en'] = `https://www.yatzyregler.com/${slug}`;
+  for (const locale of allLocales) {
+    const translatedContent = await getContentBySlug(slug, locale);
+    if (translatedContent) {
+      languages[locale] = `https://www.yatzyregler.com/${slug}`;
+    }
   }
+
+  // Set x-default to the primary locale version
+  languages['x-default'] = `https://www.yatzyregler.com/${slug}`;
+
+  // Map locale to OpenGraph locale format
+  const ogLocaleMap: Record<string, string> = {
+    'sv': 'sv_SE',
+    'da': 'da_DK',
+    'no': 'nb_NO',
+    'fi': 'fi_FI',
+    'en': 'en_US',
+    'es': 'es_ES',
+  };
 
   return {
     title: content.title,
@@ -108,7 +128,7 @@ export async function generateMetadata({ params }: PageProps) {
       description: content.description,
       url: `https://www.yatzyregler.com/${slug}`,
       siteName: 'Yatzy Regler',
-      locale: 'sv_SE',
+      locale: ogLocaleMap[primaryLocale] || 'sv_SE',
       type: 'article',
     },
     twitter: {
