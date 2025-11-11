@@ -277,7 +277,7 @@ export default async function ContentPage({ params }: PageProps) {
 
             <aside>
               {slug !== 'kontakt' && slug !== 'privacy-policy' && <AuthorBox locale={content.locale} />}
-              {slug !== 'privacy-policy' && content.headings.length > 0 && (
+              {slug !== 'privacy-policy' && slug !== 'casino-utan-svensk-licens' && content.headings.length > 0 && (
                 <TableOfContents headings={content.headings} locale={content.locale} />
               )}
             </aside>
