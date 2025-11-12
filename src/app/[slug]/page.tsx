@@ -185,7 +185,7 @@ export default async function ContentPage({ params }: PageProps) {
               />
               <span className={styles.authorName}>Fredrik</span>
               <span className={styles.separator}>•</span>
-              <span className={styles.lastUpdated}>Last updated: 2025-11-01</span>
+              <span className={styles.lastUpdated}>Last updated: 2025-11-12</span>
             </div>
           </div>
           <svg className={styles.wave} viewBox="0 0 1440 120" preserveAspectRatio="none">
@@ -257,7 +257,7 @@ export default async function ContentPage({ params }: PageProps) {
             />
             <span className={styles.authorName}>Fredrik</span>
             <span className={styles.separator}>•</span>
-            <span className={styles.lastUpdated}>Last updated: 2025-11-01</span>
+            <span className={styles.lastUpdated}>Last updated: 2025-11-12</span>
           </div>
         </div>
         <svg className={styles.wave} viewBox="0 0 1440 120" preserveAspectRatio="none">
