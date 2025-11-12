@@ -1,6 +1,6 @@
 ---
 title: "Casino utan svensk licens 2025 - Guide för att undvika scams och finansiella fällor."
-description: "Casino utan svensk licens och casino utan Spelpaus är online casinon du helt lagligt kan spela på som inte är en del av det svenska licenssystemet."
+description: "Undersökande journalist Fredrik avslöjar de finansiella fällorna med casino utan svensk licens. Lär dig den 5-stegsmetod som skyddar dig från scams och 30% skatteskuld."
 url: "/casino-utan-svensk-licens"
 locale: "sv"
 slug: "casino-utan-svensk-licens"
