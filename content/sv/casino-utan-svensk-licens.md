@@ -15,13 +15,13 @@ Mitt mål med det här inlägget är inte att marknadsföra dessa sajter, utan a
 
 En ärlig lista baseras inte bara på "bästa bonusen", utan på en balans mellan flera olika faktorer.
 
-*  **Bäst för skattefria vinster** (MGA/EES-licens): Ett måste.
-*  **Bäst spelutbud** (toppleverantörer): Leta efter NetEnt, Evolution, etc.
-*  **Bäst för krypto:** Om det är din prioritet.
-*  **Snabbaste uttagen (verifierade):** Baserat på användarupplevelser.
-*  **Bonusen med mest RÄTTVISA villkor:** Inte störst, utan mest rättvist (jag förklarar senare hur du ser det).
-*  **Bästa mobilupplevelsen:** Testad på en smartphone.
-*  **Bästa kundtjänsten (24/7 på engelska):** Testad av dig.
+*  [**Bäst för skattefria vinster**](https://toptaxfreecasinos.com/) (MGA/EES-licens): Ett måste.
+*  [**Bäst spelutbud**](https://toptaxfreecasinos.com/) (toppleverantörer): Leta efter NetEnt, Evolution, etc.
+*  [**Bäst för krypto:**](https://toptaxfreecasinos.com/) Om det är din prioritet.
+*  [**Snabbaste uttagen (verifierade):**](https://toptaxfreecasinos.com/) Baserat på användarupplevelser.
+*  [**Bonusen med mest RÄTTVISA villkor:**](https://toptaxfreecasinos.com/) Inte störst, utan mest rättvist (jag förklarar senare hur du ser det).
+*  [**Bästa mobilupplevelsen:**](https://toptaxfreecasinos.com/) Testad på en smartphone.
+*  [**Bästa kundtjänsten (24/7 på engelska):**](https://toptaxfreecasinos.com/) Testad av dig.
 
 ---
 
