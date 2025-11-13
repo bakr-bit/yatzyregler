@@ -196,48 +196,57 @@
 .content ul,
 .content ol {
   margin: 2rem 0;
-  padding-left: 2rem;
+  padding-left: 0;
   line-height: 1.8;
 }
 
 .content ul {
   list-style: none;
-  padding-left: 1.5rem;
+  padding-left: 0.5rem;
 }
 
 .content ul li {
   position: relative;
   margin-bottom: 0.875rem;
-  padding-left: 1.5rem;
+  padding-left: 1.25rem;
+  font-size: 1.0625rem;
+  line-height: 1.8;
 }
 
 .content ul li::before {
   content: '•';
   position: absolute;
   left: 0;
-  color: #6366f1;
+  top: -0.25em;
+  color: #1f2937;
   font-weight: 700;
   font-size: 1.25em;
+  line-height: 1.8;
 }
 
 .content ol {
   counter-reset: item;
   list-style: none;
+  padding-left: 0.5rem;
 }
 
 .content ol li {
   counter-increment: item;
   position: relative;
   margin-bottom: 0.875rem;
-  padding-left: 2rem;
+  padding-left: 1.5rem;
+  font-size: 1.0625rem;
+  line-height: 1.8;
 }
 
 .content ol li::before {
   content: counter(item) '.';
   position: absolute;
   left: 0;
-  color: #6366f1;
+  top: 0;
+  color: #1f2937;
   font-weight: 700;
+  line-height: 1.8;
 }
 
 .content ul ul,
@@ -245,6 +254,35 @@
 .content ul ol,
 .content ol ul {
   margin: 0.5rem 0;
+  padding-left: 1.25rem;
+}
+
+/* Ensure nested lists maintain consistent font size */
+.content ul li li,
+.content ol li li,
+.content ul li ol li,
+.content ol li ul li {
+  font-size: 1.0625rem;
+  line-height: 1.8;
+}
+
+/* Nested list items should maintain proper indentation */
+.content ul ul li,
+.content ol ol li,
+.content ul ol li,
+.content ol ul li {
+  font-size: 1.0625rem;
+  line-height: 1.8;
+}
+
+/* Ensure all text content within lists has consistent sizing */
+.content li strong,
+.content li b,
+.content li em,
+.content li span,
+.content li p {
+  font-size: inherit;
+  line-height: inherit;
 }
 
 .content table {
@@ -305,20 +343,20 @@
 }
 
 .content a {
-  color: #6366f1;
+  color: #dc2626 !important;
   text-decoration: none;
-  font-weight: 500;
-  background-image: linear-gradient(180deg, transparent 65%, rgba(99, 102, 241, 0.2) 65%);
+  font-weight: 600;
+  background-image: linear-gradient(180deg, transparent 65%, rgba(220, 38, 38, 0.15) 65%);
   background-size: 0 100%;
   background-repeat: no-repeat;
   transition: background-size 0.3s ease, color 0.2s ease;
-  border-bottom: 1px solid #c7d2fe;
+  border-bottom: 1px solid #fca5a5;
 }
 
 .content a:hover {
-  color: #4f46e5;
+  color: #b91c1c !important;
   background-size: 100% 100%;
-  border-bottom-color: #6366f1;
+  border-bottom-color: #dc2626;
 }
 
 .content blockquote {
@@ -485,13 +523,21 @@
     font-size: 1.375rem;
   }
 
+  .content {
+    font-size: 1.125rem;
+  }
+
+  .content p {
+    font-size: 1.125rem;
+  }
+
   .content > p:first-of-type {
-    font-size: 1.0625rem;
+    font-size: 1.125rem;
   }
 
   .content h1 + p,
   .content h2 + p {
-    font-size: 1.0625rem;
+    font-size: 1.125rem;
   }
 
   /* Mobile table card layout */
@@ -537,14 +583,14 @@
     text-align: left;
     padding: 0.5rem 0;
     border-bottom: none;
-    font-size: 0.875rem;
+    font-size: 1.125rem;
   }
 
   .content table td:first-child {
     padding-top: 0;
     font-weight: 700;
     color: #6366f1;
-    font-size: 1rem;
+    font-size: 1.125rem;
     margin-bottom: 0.5rem;
   }
 
@@ -566,6 +612,23 @@
   .content ul li,
   .content ol li {
     margin-bottom: 0.75rem;
+    font-size: 1.125rem;
+    line-height: 1.8;
+  }
+
+  .content ol li {
+    padding-left: 1.5rem;
+  }
+
+  /* Ensure nested lists maintain consistent font size on mobile */
+  .content ul li li,
+  .content ol li li,
+  .content ul ul li,
+  .content ol ol li,
+  .content ul ol li,
+  .content ol ul li {
+    font-size: 1.125rem;
+    line-height: 1.8;
   }
 
   .content img {
@@ -581,6 +644,14 @@
   .content blockquote {
     padding: 1rem 1.25rem;
     margin: 2rem 0;
+    font-size: 1.125rem;
+  }
+
+  .content strong,
+  .content b,
+  .content em,
+  .content a {
+    font-size: inherit;
   }
 }
 
@@ -597,7 +668,7 @@
   }
 
   .content {
-    font-size: 0.9375rem;
+    font-size: 1rem;
     max-width: 100%;
   }
 
@@ -622,31 +693,67 @@
   }
 
   .content table td {
-    font-size: 0.8125rem;
+    font-size: 1rem;
   }
 
   .content table td:first-child {
-    font-size: 0.9375rem;
+    font-size: 1rem;
   }
 
   .content pre {
     padding: 1rem;
     margin: 1.5rem 0;
-    font-size: 0.75rem;
+    font-size: 0.875rem;
   }
 
   .content ul li,
   .content ol li {
+    padding-left: 1rem;
+    font-size: 1rem;
+    line-height: 1.8;
+  }
+
+  .content ol li {
     padding-left: 1.25rem;
-    font-size: 0.875rem;
+  }
+
+  /* Ensure nested lists maintain consistent font size on extra small screens */
+  .content ul li li,
+  .content ol li li,
+  .content ul ul li,
+  .content ol ol li,
+  .content ul ol li,
+  .content ol ul li {
+    font-size: 1rem;
+    line-height: 1.8;
   }
 
   .content p {
-    font-size: 0.9375rem;
+    font-size: 1rem;
+  }
+
+  .content > p:first-of-type {
+    font-size: 1rem;
+  }
+
+  .content h1 + p,
+  .content h2 + p {
+    font-size: 1rem;
   }
 
   .content a > img {
     max-width: 200px;
+  }
+
+  .content blockquote {
+    font-size: 1rem;
+  }
+
+  .content strong,
+  .content b,
+  .content em,
+  .content a {
+    font-size: inherit;
   }
 
   .heroContainer {

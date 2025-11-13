@@ -89,6 +89,26 @@ a:hover {
   color: var(--color-secondary);
 }
 
+/* Override for content links to make them red */
+.content a,
+[class*="content"] a,
+.content a strong,
+.content a b,
+[class*="content"] a strong,
+[class*="content"] a b {
+  color: #dc2626 !important;
+  font-weight: 600;
+}
+
+.content a:hover,
+[class*="content"] a:hover,
+.content a:hover strong,
+.content a:hover b,
+[class*="content"] a:hover strong,
+[class*="content"] a:hover b {
+  color: #b91c1c !important;
+}
+
 img {
   max-width: 100%;
   height: auto;
