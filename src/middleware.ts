@@ -12,20 +12,6 @@ export function middleware(request: NextRequest) {
     return NextResponse.redirect(url, { status: 301 });
   }
 
-  // Handle casino page trailing slash redirect in middleware to prevent loop
-  if (pathname === '/casino-utan-svensk-licens') {
-    const url = request.nextUrl.clone();
-    url.pathname = '/casino-utan-svensk-licens/';
-    return NextResponse.redirect(url, { status: 308 });
-  }
-
-  // Rewrite casino page with trailing slash to without (internal only)
-  if (pathname === '/casino-utan-svensk-licens/') {
-    const url = request.nextUrl.clone();
-    url.pathname = '/casino-utan-svensk-licens';
-    return NextResponse.rewrite(url);
-  }
-
   // Block all Danish subpages (but allow /da homepage)
   if (pathname.startsWith('/da/')) {
     return new NextResponse('Gone', { status: 410 });

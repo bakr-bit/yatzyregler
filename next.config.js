@@ -1,5 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  trailingSlash: true,
+
   images: {
     domains: ['www.yatzyregler.com', 'yatzyregler.com'],
   },
@@ -12,7 +14,7 @@ const nextConfig = {
         destination: '/en',
         permanent: true, // 301 redirect
       },
-      // Redirect all Swedish casino pages to the main casino page (trailing slash handled in middleware)
+      // Redirect all Swedish casino pages to the main casino page
       {
         source: '/casino-pa-natet',
         destination: '/casino-utan-svensk-licens/',
