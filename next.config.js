@@ -12,13 +12,7 @@ const nextConfig = {
         destination: '/en',
         permanent: true, // 301 redirect
       },
-      // Redirect casino page to trailing slash version
-      {
-        source: '/casino-utan-svensk-licens',
-        destination: '/casino-utan-svensk-licens/',
-        permanent: true,
-      },
-      // Redirect all Swedish casino pages to the main casino page
+      // Redirect all Swedish casino pages to the main casino page (trailing slash handled in middleware)
       {
         source: '/casino-pa-natet',
         destination: '/casino-utan-svensk-licens/',

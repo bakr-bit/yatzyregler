@@ -12,10 +12,18 @@ export function middleware(request: NextRequest) {
     return NextResponse.redirect(url, { status: 301 });
   }
 
-  // Preserve trailing slash for casino page to prevent redirect loop
-  // The redirect is handled in next.config.js, here we just ensure the trailing slash version is served
+  // Handle casino page trailing slash redirect in middleware to prevent loop
+  if (pathname === '/casino-utan-svensk-licens') {
+    const url = request.nextUrl.clone();
+    url.pathname = '/casino-utan-svensk-licens/';
+    return NextResponse.redirect(url, { status: 308 });
+  }
+
+  // Rewrite casino page with trailing slash to without (internal only)
   if (pathname === '/casino-utan-svensk-licens/') {
-    return NextResponse.next();
+    const url = request.nextUrl.clone();
+    url.pathname = '/casino-utan-svensk-licens';
+    return NextResponse.rewrite(url);
   }
 
   // Block all Danish subpages (but allow /da homepage)
