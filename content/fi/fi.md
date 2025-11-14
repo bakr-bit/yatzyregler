@@ -1,543 +1,476 @@
 ---
-title: "Yatzy Säännöt"
-description: "Yatzy säännöt ovat helppoja oppia. Pelin tavoitteena on kerätä mahdollisimman paljon Yatzy pisteitä. Tutustu oppaaseemme ja lataa ilmainen Yatzy taulukko."
-hero: "Tervetuloa ultimaattiseen Yatzy säännöt -oppaaseen! Täältä löydät kaiken tarvitsemasi mestaroidaksesi tämän suositun noppapelin. Olitpa sitten aloittelija tai kokeneempi pelaaja, selkeät ja yksinkertaiset säännöt vievät pelisi seuraavalle tasolle. Opi temput, strategiat ja Yatzy säännöt salaisuudet jo tänään!
-
-Sivustoltamme löydät myös askel-askeleelta -oppaan todellisilla kuvilla, jotka auttavat sinua pääsemään alkuun, sekä Yatzy taulukko ja Yatzy blokin, jotka voit ladata täysin ilmaiseksi!
-
-Mitä siis odotat? Aloitetaan nyt Yatzy säännöillä!"
+title: "Yatzy Säännöt, Pisteet ja Bonus: Täydellinen Opas Voittamiseen"
+description: "Täydellinen opas Yatzyyn, sisältäen säännöt, pistelaskun, bonus-järjestelmän ja strategiat. Opi, miten saat 63 pistettä bonusta varten ja maksimoit voittomahdollisuutesi."
+hero: "Yatzy on yksi niistä peleistä, jotka kulkevat mukana läpi elämän. Tämä opas käy läpi, miten peli toimii, miten pisteet lasketaan, ja ne strategiset harkinnat, jotka käytännössä ratkaisevat, kuka lähtee pöydästä voittajana."
 url: "/fi"
 locale: "fi"
 slug: "fi"
 ---
 
-## Yatzy Säännöt
+### Nopeita faktoja
 
-Alla esitellään viralliset Yatzy säännöt. Ymmärtämisen helpottamiseksi olemme yatzyregler.com-sivustolla lisänneet esimerkkejä, jotka selventävät joitakin mahdollisesti epäselviä tilanteita.
+-   **Pelaajia:** 2+
+-   **Peliaika:** 20–30 min
+-   **Varusteet:** 5 noppaa, pistetaulukko, kynä
+-   **Tavoite:** Saada 63+ pistettä yläosasta bonuksen (50 pistettä) saamiseksi ja maksimoida pisteet alaosassa.
 
-### **Yatzy**
+Yatzy on yksi niistä peleistä, jotka kulkevat mukana läpi elämän. Sitä pelataan lomalla mökillä, pitkillä matkoilla, keittiönpöydän ääressä tavallisena tiistaina ja myöhäisinä iltoina, kun kukaan ei oikein haluaisi mennä nukkumaan.
 
-- **Pelaajia:** +1
-- **Ikä:** +6
-- **Sisältö:** 5 noppaa ja pistekirja.
+Tämä opas käy läpi, miten Yatzy toimii, miten pisteet lasketaan, ja strategioita, jotka voivat auttaa sinua poistumaan pöydästä voittajana.
 
-#### **Pelin tavoite**
+Minä, joka olen tämän sivuston luonut, olen nimeltäni Fredrik ja työskentelen arkisin toimittajana, mutta olen omistanut suuren osan elämästäni lautapeleille, erityisesti Yatzylle! Tavoitteeni on tarjota täydellinen opas peliin, jotta aloittelija voi, luettuaan sivun läpi, voittaa ensimmäisen Yatzy-pelinsä ja tehdä vaikutuksen ystäviin ja perheeseen!
 
-Pelaajat yrittävät heittää mahdollisimman monta numeroyhdistelmää ja merkitsevät ne pistelehtiöön. Eniten pisteitä kerännyt pelaaja voittaa.
+_*Tämä opas perustuu klassisiin suomalaisiin sääntöihin, viitaten tunnettuihin pelivalmistajiin kuten [Alga](https://algaspel.se)._
 
-#### **Pelaaminen**
+---
 
-Joka kierroksella saat heittää noppia kolme kertaa. Saat itse päättää mitä noppia heität uudestaan, tai voit olla heittämättä lisiinkaan. Yhdistelmiä voi kirjata missä järjestyksessä tahansa.
+### Nopeat Vastaukset Yleisiin Kysymyksiin
 
-![yatzy poäng](/images/yatzy-poang.webp)
+> -   **Miten Yatzy-bonuksen saa?**
+>     Saat bonuksen (50 pistettä), jos saat **yhteensä 63 pistettä tai enemmän** taulukon yläosasta (Ykkösistä Kuutosiin).
+> -   **Tarvitseeko bonukseen kolme jokaista?**
+>     Ei, se on myytti. Tarvitset vain 63 pistettä yhteensä, riippumatta siitä, miten saat ne (esim. viisi kuutosta ja viisi viitosta riittävät).
+> -   **Kuinka monta pistettä Yatzy on?**
+>     50 pistettä.
+> -   **Kuinka monta noppaa käytetään?**
+>     5 noppaa.
 
-#### **Pisteidenlasku**
+---
 
-Yksi pelivuoro pistetäänlaskijaksi. Jokaisella pelaajalla on pistelehtiössä oma sarakkeensa, johon pistetdenlaskija merkkaa kunkin pelaajan pisteet.
+## 1. Johdanto Yatzyyn
 
-> _Esimerkki:_
->
-> Saat ensimmäisellä heitollasi 1-4-4-6-6. Jätät 6-6 ja heität loput kolme noppaa uudestaan. Toisella heitolla saat 6-4-2. Jätät jälleen 6 ja heität jäljellävääät kaksi noppaa. Saat 5-5. Olet saanut Tyiskiden 6-6-5-5-5, josta saat 28 pistettä.
+### Mikä on Yatzy?
 
-Lehtiöön lisätään pisteet jokaisen vuoron jälkeen (vaikka se olisikin 0). Jokaiselle riville voi merkata pisteet vain kerran.
+Yatzy on noppapeli, joka on ollut olemassa 1950-luvulta lähtien ja jota pelataan edelleen ympäri maailmaa. Tämä johtuu suurelta osin pelin yksinkertaisesta perusideasta: heität noppia, säästät ne, jotka auttavat sinua, ja yrität löytää yhdistelmiä, jotka antavat korkeita pisteitä.
 
-![yatzy regler vinnare](/images/yatzy-regler-vinnare.webp)
+Se on yhtä lailla onnea ja strategiaa, mutta voin luvata, että se, joka suunnittelee älykkäästi, voittaa sen, joka pelaa suunnittelematta. Alempana sivulla löydät nyrkkisääntöjä ja strategioita, joita käytän itse pelatessani.
 
-#### **Voittaja**
+### Pelin tavoite
 
-Pelin voittaa pelaaja, jonka kohdistamien pisteiden kaikki rivit on täytetty! Yhdistelmät saat pisteitä niihin käytettyjen noppien yhteisarvon verran, jos ei toisin mainita.
+Pelaajat yrittävät saada mahdollisimman monta erilaista noppayhdistelmää. Ne merkitään pistetaulukkoon. Yhdistelmät voi tehdä missä järjestyksessä tahansa. Pelaaja, joka on saavuttanut korkeimman pistemäärän, voittaa pelin.
 
-#### **Yhdistelmät**
+### Varusteet ja Taulukko
+
+Yatzyn pelaamiseen tarvitaan minimaalisesti varusteita, tarvitset vain:
+
+-   Viisi noppaa
+-   Kynän
+-   Pistetaulukon
+-   Yksi pelaaja toimii kirjurina ja kirjoittaa kaikkien pisteet.
+
+Jos sinulta puuttuu esim. noppia tai kynä, kännykkä tarjoaa ratkaisuja. Olen pelannut noppa-sovelluksilla noppien sijaan ja käyttänyt kännykkää taulukon pitämiseen. Usko minua, jos todella haluat pelata, se onnistuu kyllä.
+
+#### Lataa Pistetaulukko
+
+Alla löydät erilaisia Yatzy-taulukoita, jotka voit ladata täysin ilmaiseksi.
+
+![Yatzy protokoll färg 1 st](/images/Yatzy-protokoll-farg-1-st.webp)
+
+**YATZY TAULUKKO VÄREISSÄ – 1 KPL SIVUA KOHTI**
+Tulosta suuri värillinen Yatzy-taulukkomme. Taulukko kattaa koko A4-sivun ja sopii täydellisesti, jos haluat enemmän tilaa kirjoittamiseen.
+
+[LATAA VÄRILLINEN YATZY TAULUKKO (PDF)](/pdfs/yatzy-protokoll-farg.pdf)
+
+![Yatzy protokoll färg 4 st](/images/Yatzy-protokoll-farg-4-st.webp)
+
+**YATZY TAULUKKO VÄREISSÄ – 4 KPL SIVUA KOHTI**
+Jos haluat säästää paperia ja olla ympäristöystävällinen, pienempi värillinen Yatzy-taulukkomme voi olla parempi vaihtoehto. Täältä saat neljä taulukkoa yhdelle A4-sivulle.
+
+[LATAA 4 KPL VÄRILLISTÄ YATZY TAULUKKOA (PDF)](/pdfs/Yatzy-protokoll-4-st-farg.pdf)
+
+### Yhdistelmät
 
 Yhdistelmistä saa pisteitä niihin käytettyjen noppien yhteisarvon verran, jos ei toisin mainita.
 
-|     |     |
+| | |
 | --- | --- |
-| 🎲 **YKKÖSET–KUUTOSET** | Yritä saada mahdollisimman monta samaa numeroa. |
-| 🎁 **BONUS** | Pelaaja, jolla on pistelehtiön ensimmäisessä osassa 63 pistettä tai enemmän, saa **50 bonuspistettä**. |
-| ⚅⚅ **1 PARI** | Yritä heittää yksi pari. |
-| ⚅⚅⚄⚄ **2 PARIA** | Yksi pari plus yksi pari. Parin tulee olla erilaisia! |
-| ⚅⚅⚅ **KOLMOISLUKU** | Kolme noppaa, joissa on sama silmäluku. |
-| ⚄⚄⚄⚄ **NELÖSLUKU** | Neljä noppaa, joissa on sama silmäluku. |
-| ⚀⚁⚂⚃⚄ **PIENI SUORA** | Viisi noppaa silmäluvuilla 1–5. **15 pistettä.** |
-| ⚁⚂⚃⚄⚅ **ISO SUORA** | Viisi noppaa silmäluvuilla 2–6. **20 pistettä.** |
-| ⚄⚄⚄⚅⚅ **TÄYSKÄSI** | Pari ja Kolmoisluku. |
-| ❓❓❓❓❓ **SATTUMA** | Viiuden napan yhteenlasketut arvo millä tahansa silmäluvulla. Tämä on hyödyllinen rivi, jos saamasi tulosta ei voi merkata mihinkään muualle. |
-| **🆈🅰🆃🆉🆈** | Kaikissa viidessä nopassa sama silmäluku. **50 pistettä.** |
+| **YKKÖSET–KUUTOSET** | Yritä saada mahdollisimman monta samaa numeroa. |
+| **BONUS** | Pelaaja, jolla on pistelehtiön ensimmäisessä osassa 63 pistettä tai enemmän, saa **50 bonuspistettä**. |
+| **1 PARI** | Kaksi noppaa, joissa on sama silmäluku. |
+| **2 PARIA** | Yksi pari plus yksi pari. Parien tulee olla erilaisia! |
+| **KOLMOISLUKU** | Kolme noppaa, joissa on sama silmäluku. |
+| **NELÖSLUKU** | Neljä noppaa, joissa on sama silmäluku. |
+| **PIENI SUORA** | Viisi noppaa silmäluvuilla 1–5. **15 pistettä.** |
+| **ISO SUORA** | Viisi noppaa silmäluvuilla 2–6. **20 pistettä.** |
+| **TÄYSKÄSI** | Pari ja Kolmoisluku. |
+| **SATTUMA** | Viiden nopan yhteenlasketut arvo millä tahansa silmäluvulla. |
+| **YATZY** | Kaikissa viidessä nopassa sama silmäluku. **50 pistettä.** |
 
-Pitää hauskaa ja onnea matkaan!
+## 2. Pelin Kulku: Askel Askeleelta
 
-![Yatzy säännöt ylhäältä alas](/images/Yatzy-saannot-ylhaalta-alas.webp)
+### Valmistelut
 
-## Yatzy säännöt ”ylhäältä alas”
+Ensimmäinen askel on päättää, kuka aloittaa heittämisen. Tämän voitte päättää itse. Minun perheessäni nuorin aloittaa aina, mutta voitte myös heittää kukin yhden nopan nähdäksenne, kuka saa korkeimman, ja antaa sen henkilön aloittaa. Sen jälkeen vuorottelette myötäpäivään. Kirjoittakaa nimenne pistetaulukkoon (mielellään samassa järjestyksessä kuin pelaatte, yksinkertaisuuden vuoksi).
 
-Yatzyn pelaaminen ”ylhäältä alas” on suosittu tapa nauttia tästä klassisesta nopanheitto pelistä. Mutta mitä sääntöjä tässä pelitavassa todella on?
+![Päätä kuka aloittaa](/images/Paata-kuka-aloittaa.webp)
 
-Voit pelata Yatzyä kahdella eri tavalla: ”Yatzy pakolla” tai ”puolipakolla”. Molempien säännöt ovat hyvin samankaltaiset.
+*Anna sattuman ratkaista! Heittäkää kukin yksi noppa päättääksenne, kuka saa aloittaa pelin. Tässä aloittaa henkilö, joka heitti 6:n.*
 
-### Yatzy pakolla
+### Kolme Heittoa
 
-Kun pelaat Yatzyä pakolla, noudatat perinteisiä Yatzy sääntöjä. Erona on, että pelaajien on täytettävä Yatzy ark tai Yatzy blokk ylhäältä alas. Aloitat ykkösistä ja jatkat sitten alaspäin järjestyksessä.
+Kun on sinun vuorosi, saat heittää noppia jopa **kolme kertaa** vuoroa kohti.
 
-Kuten tavallisessa Yatzyssä, sinulla on kolme yritystä joka kierroksella. Jos et onnistu saamaan mitään, saat **0 pistettä.**
+1.  Heitä kaikki viisi noppaa.
+2.  Valitse, mitkä nopat haluat pitää, ja heitä loput uudelleen.
+3.  Voit muuttaa mieltäsi ja heittää uudelleen aiemmin säästämiäsi noppia.
+4.  Sinun ei tarvitse käyttää kaikkia kolmea heittoa. Jos olet tyytyväinen ensimmäisen heiton jälkeen, saat täyttää taulukon heti.
 
-#### Yatzy-bonus ylhäältä alas
+#### Ensimmäinen heitto
 
-Kun pelaat Yatzyä ylhäältä alas, bonus myönnetään pelaajalle, joka on saanut vähintään 42 pistettä yläosasta. Tämä vastaa keskimäärin kahta jokaista kohdetta varten. Bonus antaa sinulle 50 lisäpistettä.
+Käytetään esimerkkiä. Sanotaan, että heität (3-3-3-1-6). Sinulla on kolmoisluku (3-3-3), joka antaa 9 pistettä. Mutta jos heität ykkösen ja kuutosen uudelleen, sinulla on mahdollisuus saada nelosluku, täyskäsi tai jopa Yatzy!
 
-### Yatzy puolipakolla
+![Ensimmäinen heitto](/images/Ensimmainen-heitto.webp)
 
-Pelatessasi Yatzyä puolipakolla aloitat Yatzy ark tai Yatzy blokk’n yläosasta. Erona Yatzyyn pakolla on, että voit vapaasti valita, missä järjestyksessä täytät jokaisen ruudun. Yläosan valmistuttua jatkatte kuten tavallisesti alaosassa. Tässäkin lasketaan Yatzy-bonus kun olet saanut 42 pistettä yläosasta ja saat **50 bonuspistettä.** Eniten pisteitä kerännyt pelaaja voittaa!
+*Ensimmäinen heitto - tässä päätät, mitkä nopat haluat säästää.*
 
-**Viralliset Yatzy säännöt sekä Yatzy säännöt ylhäältä alas**
+#### Toinen heitto
 
-Olet nyt perehtynyt virallisiin Yatzy sääntöihin sekä Yatzy-pelin versioon, jota pelataan ylhäältä alas. Jos nämä olivat juuri ne säännöt, joita etsit, voit aloittaa pelin. Mikäli tunnet edelleen epävarmuutta Yatzyn säännöistä ja mietit, kuinka Yatzya pelataan, seuraava osio on juuri sinulle. Siinä käydään läpi, kuinka Yatzya pelataan vaihe vaiheelta kuvien kanssa!
+Heitä nopat toisen kerran. Jos olet tyytyväinen ensimmäiseen tulokseesi, voit lisätä pisteesi pistetaulukkoon ja päättää vuorosi. Mutta voit myös yrittää saada vielä korkeampia pisteitä. Valitse, mitkä nopat haluat pitää ja mitkä haluat heittää uudelleen.
 
-![Yatzy opas](/images/Yatzy-opas.webp)
+Aiemmassa esimerkissä voi olla fiksua heittää ykkönen ja kuutonen uudelleen. Sanotaan, että heität ne uudelleen ja saat nelosen ja kuutosen. Pöydällä olevat nopat näyttävät nyt 3-3-3-4-6. Sinulla on edelleen kolmoisluku ja yksi heittomahdollisuus jäljellä.
 
-## Opas: Miten pelata Yatzya vaihe vaiheelta
+![Heitä noppia uudelleen](/images/Heita-noppia-uudelleen.webp)
 
-Yatzy on yksi maailman rakastetuimmista noppapeleistä. Se on täydellinen peli iltaisin kotona, mökillä tai kun tapaat perhettä ja ystäviä. Yatzy on helppo ymmärtää ja erittäin hauska, olitpa sitten pelaamassa suuren porukan kanssa tai vain muutaman ystävän. Alla on Yatzyn vaiheittainen opas siitä, miten Yatzya pelataan. Suosittelemme, että luet oppaan läpi kerran ja pidät sen vierelläsi pelatessasi. Oppaamme koostuu kahdesta osasta:
+*Toinen heitto - heitä uudelleen ne nopat, joita et säästänyt.*
 
-Del 1: Yatzy protokollen trin for trin (trin 1-11)
+#### Kolmas heitto
 
-Aloita Yatzyn pelaaminen vaihe vaiheelta (vaiheet 12-16)
+Heitä nopat kolmannen kerran. Jos et vieläkään ole tyytyväinen tulokseesi kahden heiton jälkeen, saat viimeisen mahdollisuuden heittää uudelleen. Jälleen voit valita, kuinka monta noppaa heität.
 
-## Yatzy vaiheittainen opas
+Aiemmassa esimerkissä voit ajatella heittäväsi nelosen ja kuutosen toisesta heitostasi. Jos saat vielä yhden kolmosen, voit kirjata sen nelosluvuksi, jos saat kaksi kolmosta, sinulla on Yatzy, joka antaa 50 pistettä, jos saat parin, esim. kaksi ykköstä, sinulla on Täyskäsi (3-3-3-1-1).
 
-![Yatzy säännöt kuinka ohjata](/images/Yatzy-saannot-kuinka-ohjata.webp)
+Voit myös valita täyttää kentän pistetaulukkosi yläosasta. Muista vain, että voit täyttää vain yhden kentän taulukosta ja sinun **täytyy** täyttää jotain joka vuorolla.
 
-Yatzyn tavoitteena on heittää viisi noppaa saavuttaaksesi erilaisia yhdistelmiä ja kerätäkseen mahdollisimman korkeat pisteet. Yatzyn pisteytys saattaa tuntua monimutkaiselta aluksi, mutta kärsivällisyydellä opit pian nauttimaan Yatzy-kierroksesta.
+![Heitä noppia viimeinen kerta](/images/Heita-noppia-viimeinen-kerta.webp)
 
-Yatzy on yksi suosituimmista noppapeleistä, ja sen säännöt ovat helppo oppia. Tässä on pieni opas, joka auttaa sinua ymmärtämään, kuinka Yatzya pelataan Suomessa:
+*Kolmas heitto - viimeinen tilaisuutesi saada haluttu yhdistelmä.*
 
-**Total tid:** 15 minuter
+### Noppien Säästämisen Taito
 
-### Vaihe 1: Yatzy taulukko
+Noppien säästäminen tarkoittaa yhdistelmän rakentamista, joka antaa maksimipisteet. Kuten yllä olevassa esimerkissä, on useita lopputuloksia. Hyvä Yatzy-pelaaja tietää, mitkä nopat ovat säästämisen arvoisia ja mitä yhdistelmiä kannattaa tavoitella.
+
+### Taulukon Täyttö: Pakollinen Valinta
+
+Joka vuorolla sinun **täytyy** täyttää yksi kategoria taulukosta.
+
+-   Tyhjä ruutu on käyttämätön. Kun siinä on jotain (pisteitä tai yliviivaus), se on **lukittu**.
+-   Jos saat käden, joka sopii useampaan kategoriaan, valitse strategisesti (katso vinkit osiosta 5).
+
+### Ruudun Yliviivaaminen (Nollaaminen)
+
+Jos et saa mitään, mikä sopii vapaaseen kategoriaan, sinun täytyy yliviivata yksi. Se tarkoittaa, että kirjoitat 0 tai viivan (-) ruutuun. Minkä ruudun yliviivaat, vaikuttaa koko lopputulokseen.
+
+---
+
+## 3. Pistetaulukko: Yatzyn Sydän
 
 ![Yatzy taulukko](/images/Yatzy-taulukko.webp)
 
-**Tutustu Yatzy taulukkoon.** Yatzyssa pidät kirjaa pisteistäsi paperilla, jossa on 15 ruutua jaettuna ylempään ja alempaan osaan. Jokaisella vuorollasi päätät, minkä ruudun haluat täyttää parhaan pistevaihtoehdon perusteella. Jos et voi tai päätät olla kirjoittamatta pistemäärää, kirjoita ”0” johonkin ruuduista. Toisin sanoen sinun on täytettävä jokin ruutu joka kierroksella.
+*Yatzy-taulukko on jaettu ylempään ja alempaan osioon.*
 
-**Muista:** jokaista ruutua voi käyttää vain kerran.
+### Yleiskatsaus: Ylempi ja Alempi Osio
 
-### Vaihe 2: Yatzy taulukon yläosa
+| Osio | Sisältö | Tavoite |
+| :--- | :--- | :--- |
+| **Ylempi osio** | Ykköset, kakkoset, kolmoset, neloset, viitoset, kuutoset | Tavoittele vähintään 63 pistettä bonusta varten |
+| **Alempi osio** | Pari, kaksi paria, kolmoisluku, nelosluku, suorat, täyskäsi, sattuma, yatzy | Maksimoi arvo jokaisessa kategoriassa |
 
-![Yatzy taulukon yläosa](/images/Yatzy-taulukon-ylaosa.webp)
+### Ylempi Osio
 
-**Opettele tuntemaan Yatzy taulukon yläosa.** Yläosan pistetaulukkoa lasketaan eri tavalla kuin alaosaa. Yläosassa tavoitteesi on saavuttaa vähintään 63 pistettä. Jos saat 63 pistettä tai enemmän tässä osassa, saat 50 pisteen bonuksen.
+![Yatzy taulukon yläosa](/images/Yatzy-taulukon-ylaosa.webp)
 
-Yläosassa on kuusi ruutua: ykköset, kakkoset, kolmoset, neloset, vitoset ja kuutoset. Yatzyssa heität 5 noppaa, ja joka kierroksella voit heittää kolme kertaa. Päätät itse, mitkä nopat haluat pitää ja mitkä haluat heittää uudelleen. Sinun ei tarvitse heittää noppia uudelleen, jos et halua.
+*Yläosa: Ykkösistä Kuutosiin - täällä keräät pisteitä bonusta varten.*
 
-Täyttääksesi yläosan ruudut, yhdistät noppien saman numeron arvot. Sitten kirjoitat summan oikeaan ruutuun. Voit täyttää vain yhden ruudun per kierros.
+Yläosan pistetaulukkoa lasketaan eri tavalla kuin alaosaa. Yläosassa tavoitteesi on saavuttaa vähintään 63 pistettä. Jos saat 63 pistettä tai enemmän tässä osassa, saat 50 pisteen bonuksen.
 
-Tämä saattaa kuulostaa monimutkaiselta lukiessasi, joten katsotaan esimerkki. Oletetaan, että heität nopat ja saat vitosen, kuutosen ja kolme kakkosta kolmella heitolla.
+Täyttääksesi yläosan ruudut, yhdistät noppien saman numeron arvot. Sitten kirjoitat summan oikeaan ruutuun.
+
+Katsotaan esimerkki. Oletetaan, että heität nopat ja saat vitosen, kuutosen ja kolme kakkosta kolmella heitolla.
 
 🎲 Heitto 1: 2-2-3-4-6
-
 🎲 Heitto 2: 2-2-2-5-4
-
 🎲 Heitto 3: 2-2-2-5-6
 
-Kakkosten pistetaulukossa kirjaat yhteensä 6 pistettä (2+2+2). Eli et huomioi heittämääsi vitosta ja kuutosta (kuten amerikkalaisessa versiossa). Päätät itse, mihin ruutuun haluat tähdätä.
+Kakkosten pistetaulukossa kirjaat yhteensä 6 pistettä (2+2+2). Eli et huomioi heittämääsi vitosta ja kuutosta (kuten amerikkalaisessa versiossa).
 
-Toistaiseksi sinun on vain ymmärrettävä, että yläosan taulukossa on tarkoitus saada mahdollisimman monta samaa numeroa.
+| Luku | Pisteet |
+| :--- | :--- |
+| **Ykköset** | Ykkösten summa |
+| **Kakkoset** | Kakkosten summa |
+| **Kolmoset** | Kolmosten summa |
+| **Neloset** | Nelosten summa |
+| **Viitoset** | Viitosten summa |
+| **Kuutoset** | Kuutosten summa |
 
-### Vaihe 3: Yatzy taulukon alaosa
+### Bonus: Maaginen Luku 63
+
+Saat bonuksen, arvoltaan **50 pistettä**, jos yläosan summa on **63 tai enemmän**.
+
+Sinun ei tarvitse saada kolmea jokaista – se on vain keskiarvo (3x1 + 3x2 + 3x3 + 3x4 + 3x5 + 3x6 = 63).
+
+**Eksperttivinkki:**
+Kun saat kolme tiettyä numeroa, vedä viiva ruutuun. Kun kaikissa kuudessa on viiva, tiedät, että bonus on varmistettu.
+
+### Alempi Osio
 
 ![Yatzy taulukon alaosa](/images/Yatzy-taulukon-alaosa.webp)
 
-**Ymmärrä taulukon alaosa.** Pisteiden laskeminen alaosassa on hieman monimutkaisempaa. Löydät täältä ilmaisuja, kuten ”Kolmoisluku” ja ”Täyskäsi”. Nämä edustavat erilaisia noppien yhdistelmiä ja jokainen yhdistelmä antaa eri määrän pisteitä. On hyvä käyttää hetki aikaa tutustua alaosan pisteisiin ennen Yatzyn pelaamista. Tätä käsitellään tarkemmin seuraavassa vaiheessa.
+*Alaosa: Täällä keräät pisteitä eri yhdistelmillä.*
 
-### **Vaihe 4: Pari ja Kaksi paria**
+Pisteiden laskeminen alaosassa on hieman monimutkaisempaa. Täältä löydät ilmaisuja, kuten ”Kolmoisluku” ja ”Täyskäsi”.
 
-![Pari ja Kaksi paria](/images/Pari-ja-Kaksi-paria.webp)
+| Yhdistelmä | Selitys | Pisteet |
+| :--- | :--- | :--- |
+| **Pari** | Kaksi samaa | Parin summa |
+| **Kaksi paria** | Kaksi eri paria | Kaikkien neljän summa |
+| **Kolmoisluku** | Kolme samaa | Kolmen summan |
+| **Nelosluku** | Neljä samaa | Neljän summa |
+| **Pieni suora** | 1–2–3–4–5 | 15 pistettä |
+| **Iso suora** | 2–3–4–5–6 | 20 pistettä |
+| **Täyskäsi** | Kolmoisluku + Pari | Kaikkien viiden summa |
+| **Sattuma** | Mikä tahansa käsi | Kaikkien summa |
+| **Yatzy** | Viisi samaa | 50 pistettä |
 
-**Pari ja Kaksi paria.** Yatzy taulukon alaosan ensimmäiset kaksi ruutua ovat Pari ja Kaksi paria, ja ne ovat helppotajuisimpia.
+#### Pari ja Kaksi paria
 
 Pari tarkoittaa kahta noppaa, jotka näyttävät saman numeron (esimerkiksi: 2-2). Lasket täällä vain parin osoittamat pisteet, eli 4 pistettä (2+2).
 
-Kaksi paria ovat kaksi noppaa, jotka näyttävät yhden numeron ja kaksi muuta noppaa, jotka näyttävät toisen numeron (esimerkiksi: 2-2 ja 5-5). Lasket myös tässä vain nopat, jotka muodostavat kaksi paria, eli 2+2+5+5 = 12 pistettä. Et voi laskea nelöslukua (3-3-3-3) kahtena parina; parien on oltava erilaisia!
+Kaksi paria ovat kaksi noppaa, jotka näyttävät yhden numeron ja kaksi muuta noppaa, jotka näyttävät toisen numeron (esimerkiksi: 2-2 ja 5-5). Lasket myös tässä vain nopat, jotka muodostavat kaksi paria, eli 2+2+5+5 = 14 pistettä. Parien on oltava erilaisia!
 
-**Lisätieto:** Amerikkalaisessa versiossa paria ja kahta paria ei ole!
+![Pari ja Kaksi paria](/images/Pari-ja-Kaksi-paria.webp)
 
-### **Vaihe 5: Kolmoisluku**
+*Esimerkki Parista ja Kahdesta parista - kaksi eri tapaa kerätä pisteitä.*
+
+#### Kolmoisluku
+
+**Kolmoisluku tarkoittaa kolmea samanlaista noppaa.** Kun saat Kolmoisluvun, lasket yhteen ne nopat, jotka muodostavat kolmoislukusi.
+
+Esimerkiksi, jos heitit kolme viitosta, yhden kakkosen ja yhden nelosen (5-5-5-2-4). Lasket yhteen kolme viitosta, mikä tekee yhteensä 15 pistettä.
 
 ![Kolmoisluku](/images/Kolmoisluku.webp)
 
-**Kolmoisluku tarkoittaa kolmea samanlaista noppaa.** Toinen arvo, jonka voit kirjoittaa alaosaan, on Kolmoisluku. Sinun on heitettävä kolme noppaa, joilla on sama arvo, saadaksesi tämän.
+*Kolmoisluku - kolme samaa noppaa antaa sinulle kolmen summan.*
 
-Kun saat Kolmoisluvun, lasket yhteen ne nopat, jotka muodostavat kolmoislukusi. Tämä on kokonaispistemääräsi Kolmoisluku-ruudussa.
+#### Nelösluku
 
-**Lisätieto:** Amerikkalaisessa Yahtzee-versiossa lasketaan kaikki nopat, ei vain kolmoislukua osoittavia.
+**Nelösluku tarkoittaa, että sinulla on neljä samaa noppaa.** Lisää yksinkertaisesti neljä noppaa, jotka muodostavat nelösluvun. Esimerkiksi jos heität neljä kakkosta (2-2-2-2) ja yhden kuutosen, voit merkitä 8 pistettä nelösluku-kohdassa (kuutosta ei lasketa).
 
-Se voi tuntua hieman monimutkaiselta. Katsotaan esimerkkiä. Oletetaan, että heitit kolme viitosta, yhden kakkosen ja yhden nelosen. Tämä voidaan laskea Kolmoisluvuksi. Lasket yhteen kolme viitosta, mikä tekee yhteensä 15 pistettä, jonka kirjoitat Kolmoisluku-ruutuun.
+![Nelösluku](/images/Nelosluku.webp)
 
-**Lisätieto:** Jos pelaisit amerikkalaista versiota, lisäisit myös kakkosen ja nelosen, mikä antaisi sinulle yhteensä 21 pistettä.
+*Nelösluku - neljä samaa noppaa, laske kaikkien neljän summa.*
 
-### **Vaihe 6: Nelösluku**
+#### Suorat
 
-![Nelösluku](/images/Nelosluku.webp)
+**On kaksi erilaista suoraa: Pieni suora ja Iso suora.**
 
-**Nelösluku tarkoittaa, että sinulla on neljä samaa noppaa.** Nelösluku muistuttaa kolmoislukua ja voit merkitä pisteesi tähän kohtaan, jos saat neljä noppaa samalla numerolla. Lisää yksinkertaisesti neljä noppaa, jotka muodostavat nelösluvun. Esimerkiksi jos heität neljä kakkosta (2-2-2-2) ja yhden kuutosen, voit merkitä 8 pistettä nelösluku-kohdassa (kuutosta ei lasketa).
-
-### **Vaihe 7: Suorat**
+🎲 **Pieni suora** koostuu nopista: 1-2-3-4-5. Antaa **15 pistettä**.
+🎲 **Iso suora** koostuu nopista: 2-3-4-5-6. Antaa **20 pistettä**.
 
 ![Suorat](/images/Suorat.webp)
 
-**On kaksi erilaista suoraa, pieni suora (Pieni suora) ja iso suora (Iso suora).** Pieni tai iso Yatzy-suora syntyy, kun heität kaikki viisi noppaa numerossa.
+*Pieni suora (1-2-3-4-5) ja Iso suora (2-3-4-5-6).*
 
-🎲 Pieni suora koostuu nopista: yksi, kaksi, kolme, neljä ja viisi (1-2-3-4-5).
+#### Täyskäsi
 
-🎲 Iso suora koostuu nopista: kaksi, kolme, neljä, viisi ja kuusi (2-3-4-5-6).
+**Täyskäsi on yhdistelmä yksi pari ja kolmoisluku.** Parin ja kolmoisluvun on oltava erilaiset. Pisteet, jotka saat täyskädeltä, lasketaan viiden nopan pisteiden perusteella. Esimerkiksi jos saat nopat 3-3-2-2-2, saat 12 pistettä.
 
-Pieni suora antaa 15 pistettä, kun taas iso suora antaa 20 pistettä.
+![Täyskäsi](/images/Tayskasi.webp)
 
-**Lisätietoa:** Amerikkalaisessa Yahtzee-pelissä pieni suora on neljä noppaa numerossa ja iso suora on viisi noppaa numerossa.
+*Täyskäsi - Kolmoisluvun ja Parin yhdistelmä (esim. kolme 5:stä ja kaksi 2:sta).*
 
-### **Vaihe 8: Täyskäsi**
-
-![Täyskäsi](/images/Tayskasi.webp)
-
-**Täyskäsi on yhdistelmä yksi pari ja kolmoisluku.** Parin ja kolmoisluvun on oltava erilaiset, joten et voi käyttää viittä samaa noppaa täyskäsiksi (esimerkiksi: jos saat viisi viitosta, et voi laskea niitä pariksi: 5-5 ja kolmoisluku: 5-5-5).
-
-Pisteet, jotka saat täyskädeltä, lasketaan viiden nopan pisteiden perusteella. Esimerkiksi jos saat nopat 3-3-2-2-2, saat 12 pistettä.
-
-### **Vaihe 9: Yatzy**
-
-![Yatzy suomi](/images/Yatzy-suomi.webp)
-
-**Kun kaikki nopat näyttävät samaa, sinulla on Yatzy.** Yatzy on yksi korkeimmista pisteistä, joita voit saada. Saat Yaztyn, kun kaikki viisi noppaa näyttävät samaa numeroa. Yatzy on 50 pisteen arvoinen, riippumatta noppien arvosta. Esimerkiksi:
-
-🎲 Yatzy, joka koostuu: 1-1-1-1-1 antaa 50 pistettä
-
-🎲 Yatzy, joka koostuu: 4-4-4-4-4 antaa 50 pistettä
-
-🎲 Yatzy, joka koostuu: 6-6-6-6-6 antaa myös 50 pistettä.
-
-Ei siis ole väliä, mitä numeroa noppa näyttää, kunhan kaikki näyttävät samaa numeroa.
-
-**Lisätietoa:** Amerikkalaisessa versiossa saat ylimääräisiä bonuspisteitä jokaisesta saadusta Yatzysta.
-
-### **Vaihe 10: Sattuma**
-
-![Sattuma](/images/Sattuma.webp)
+#### Sattuma
 
 **Kun et voi valita muuta, on Sattuma.** Jos et voi merkitä pisteitä mihinkään muuhun kohtaan, voit käyttää Sattuma-kohtaa. Voit merkitä minkä tahansa noppien yhdistelmän Sattuma-kohtaan laskemalla niiden arvot yhteen.
 
-**Esimerkiksi**, sanotaan, että heität kaksi kolmosta ja kolme kuutosta. Kaksi kolmosta antaa 6. Kolme kuutosta antaa 18. Yhteensä 18 ja 6 antaa 24. Voit sitten kirjoittaa 24 Sattuma-kohtaan.
+Olen yleensä ahne sattuman suhteen ja yritän täyttää sen vain, jos noppien summa on yli 20.
 
-### **Vaihe 11: Laske pisteet yhteen**
+![Sattuma](/images/Sattuma.webp)
 
-![Laske pisteet yhteen](/images/Laske-pisteet-yhteen.webp)
+*Sattuma - käytä tätä ruutua, kun mikään muu ei sovi, laske kaikkien noppien summa.*
 
-**Laske kokonaispisteesi.** Kun peli päättyy 15 kierroksen jälkeen, on aika laskea pisteet. Eniten pisteitä kerännyt voittaa.
+#### Yatzy
 
-Laske yläosan pisteet yhteen ja kirjoita summa kohtaan “Yhteensä” tai “Kokonaismäärä” (riippuen yatzy taulukon valmistajasta). Jos saat 63 pistettä tai enemmän, lisää 50 pisteen bonus.
+**Kun kaikki nopat näyttävät samaa, sinulla on Yatzy.** Saat Yatzyn, kun kaikki viisi noppaa näyttävät samaa numeroa. Yatzy on **50 pisteen** arvoinen, riippumatta noppien arvosta. Esimerkiksi:
 
-Laske myös alaosan pisteet. Sen jälkeen lisää ylä- ja alaosan pisteet yhteen saadaksesi lopulliset kokonaispisteesi pelistä.
+🎲 Yatzy, joka koostuu: 1-1-1-1-1 antaa 50 pistettä
+🎲 Yatzy, joka koostuu: 6-6-6-6-6 antaa myös 50 pistettä.
 
-### **Vaihe 12: Päätä kuka aloittaa**
+![Yatzy suomi](/images/Yatzy-suomi.webp)
 
-![Päätä kuka aloittaa](/images/Paata-kuka-aloittaa.webp)
+*Yatzy - viisi samaa antaa aina 50 pistettä.*
 
-**On aika aloittaa Yatzy-peli ja päättää kuka aloittaa.** Nyt kun tiedät, miten Yatzy ark ja Yatzy blokk toimivat, voit päättää kuka alkaa. Yatzyä voi pelata yksin, mutta se on hauskempaa, kun teitä on vähintään 2 pelaajaa. Jos pelaajia on paljon, voitte jakautua joukkueiksi. Ennen kuin aloitatte, päätä kuka tai mikä joukkue aloittaa. Jokainen pelaaja tai joukkue heittää yhden noppaa. Korkeimman pistemäärän heittänyt pelaaja tai joukkue aloittaa pelin.
+---
 
-### **Vaihe 13: Ensimmäinen heitto**
+## 4. Pelin Loppu ja Voittaja
 
-![Ensimmäinen heitto](/images/Ensimmainen-heitto.webp)
+### Kun Peli On Ohi
 
-**Heitä noppia ensimmäistä kertaa.** Yatzy-kierroksella voit heittää noppia jopa kolme kertaa. Heittäessäsi voit suunnitella siirtojasi saadaksesi mahdollisimman paljon pisteitä. Jokaisen heiton jälkeen voit päättää pitääkö tietyt nopat ja heittää loput uudelleen. Sinun ei tarvitse heittää kaikkia kolmea kertaa, mutta sinun on aloitettava heittämällä kaikki viisi noppaa.
+Peli on ohi, kun kaikkien pelaajien viisitoista ruutua/yhdistelmää on täytetty (15 kierroksen jälkeen).
 
-Esimerkiksi, sanotaan että heität (3-3-3-1-6). Sinulla on kolmoisluku (3-3-3), joka antaa 9 pistettä. Mutta jos heität uudelleen ykkösen ja kuutosen, sinulla on mahdollisuus saada nelösluku, täyskäsi tai jopa Yatzy!
+### Pisteidenlasku
 
-### **Vaihe 14: Heitä noppia uudelleen**
-
-![Heitä noppia uudelleen](/images/Heita-noppia-uudelleen.webp)
-
-**Heitä noppia toisen kerran.** Jos olet tyytyväinen ensimmäiseen tulokseesi, voit lisätä pisteet Yatzy arkiisi tai Yatzy blokkiisi ja päättää vuorosi. Voit kuitenkin yrittää saada korkeammat pisteet. Valitse, mitkä nopat haluat pitää ja mitkä heittää uudelleen.
-
-Aiemman esimerkin mukaisesti voi olla viisasta heittää ykköstä ja kutosta uudelleen. Näin sinulla on mahdollisuus saada nelösluku, täyskäsi tai Yatzy. Sanotaan, että heität uudelleen ykkösen ja kutosen ja saat nelosen ja kutosen. Pöydällä olevat nopat näyttävät 3-3-3-4-6. Sinulla on edelleen kolmoisluku ja yksi heitto jäljellä. Sinun ei tarvitse heittää, mutta voit yrittää saada paremman tuloksen ilman riskiä.
-
-### **Vaihe 15: Heitä noppia viimeinen kerta**
-
-![Heitä noppia viimeinen kerta](/images/Heita-noppia-viimeinen-kerta.webp)
-
-**Heitä noppia kolmannen ja viimeisen kerran.** Jos et ole tyytyväinen tulokseesi kahden heiton jälkeen, sinulla on vielä yksi mahdollisuus heittää uudelleen. Jälleen kerran voit valita, montako noppaa haluat heittää.
-
-Aiemman esimerkin mukaisesti, voit kuvitella heittäväsi nelosta ja kutosta toisesta heitostasi. Jos saat lisää kolmosia, voit kirjata sen nelöslukuna. Jos saat kaksi kolmosta, sinulla on Yatzy, joka antaa sinulle 50 pistettä. Jos saat parin, esimerkiksi kaksi ykköstä, sinulla on täyskäsi (3-3-3-1-1). Jos saat nelosen ja kutosen uudelleen tai jonkin muun numeron, sinulla on edelleen kolmoisluku.
-
-Voit myös valita täyttääksesi kentän yatzy taulukon yläosassa. Muista, että voit täyttää vain yhden kentän kerrallaan ja sinun on täytettävä jotakin joka kierroksella. Jos et voi täyttää kenttää, merkitse nolla haluamaasi kohtaan.
-
-### **Vaihe 16: Jatka pelaamista 15 kierrosta**
-
-![Jatka pelaamista 15 kierrosta](/images/Jatka-pelaamista-15-kierrosta.webp)
-
-**Jatka, kunnes jokainen pelaaja on pelannut 15 kierrosta.** Jokainen pelaaja heittää noppaa kolme kertaa per kierros, yhteensä 15 kierrosta. Pelin aikana sinun pitäisi yrittää täyttää kaikki kentät yatzy taulukossasi. Jokainen kenttä voidaan täyttää vain kerran, joten harkitse valintojasi kun päätät, miten haluat laskea pisteesi.
-
-Eniten pisteitä kerännyt pelaaja voittaa kun lasket yatzy taulukon pisteet yhteen!
-
-**Verktyg:**
-
-- 5 noppaa
-- Yatzy taulukko
-
-**Material:** Lyijykynä
-
-![Yatzy Laskuesimerkki](/images/Yatzy-Laskuesimerkki.webp)
-
-## Yatzy-laskuesimerkki
-
-Tervetuloa Yatzy-laskuesimerkki osioomme! Tässä opastamme sinua askel askeleelta, kuinka laskea pisteet Yatzy-pelissä, selkeillä kuvilla varustettuna. Olitpa sitten aloittelija tai tarvitsit pientä muistutusta siitä, miten kaikki toimii, tämä on täydellinen resurssi ymmärtääksesi Yatzy-pelissä pisteiden laskenta täysin.
+1.  Laske yläosan summa.
+2.  Lisää 50 bonuspistettä, jos saavutit 63+.
+3.  Laske alaosan summa.
+4.  Kokonaispisteet = Yläosa + Bonus + Alaosa.
 
 ### Laskuesimerkki
 
 Olet pelaamassa Yatzya ystäviesi kanssa, ja 15 kierroksen jälkeen on aika laskea pisteet. Olet heittänyt seuraavasti:
 
 | **Sinun heittosi** | **Sinun pisteet** |
-| --- | --- |
-| Kolme samaa ykköstä | 8 pistettä (2+2+2+2) |
-| Neljä samaa kakkosta | 12 pistettä (3+3+3+3) |
-| Neljä samaa kolmosta | 3 pistettä (1+1+1) |
+| :--- | :--- |
+| Kolme samaa ykköstä | 3 pistettä (1+1+1) |
+| Neljä samaa kakkosta | 8 pistettä (2+2+2+2) |
+| Neljä samaa kolmosta | 12 pistettä (3+3+3+3) |
 | Kolme samaa nelosta | 12 pistettä (4+4+4) |
-| Neljä samaa vitosta | 24 pistettä (6+6+6+6) |
-| Neljä samaa kuutosta | 20 pistettä (5+5+5+5) |
-| 1 pari kuutosista | 20 pistettä (2+3+4+5+6) |
+| Neljä samaa vitosta | 20 pistettä (5+5+5+5) |
+| Neljä samaa kuutosta | 24 pistettä (6+6+6+6) |
+| 1 pari kuutosista | 12 pistettä (6+6) |
 | 2 paria, jotka koostuvat kahdesta vitosesta ja kahdesta ykkösestä | 12 pistettä (5+5+1+1) |
 | Kolmoisluku kolmosista | 9 pistettä (3+3+3) |
-| Nelösluku kakkosista | 12 pistettä (6+6) |
-| Pieni suora | 8 pistettä (2+2+2+2) |
-| Iso suora | 27 pistettä (5+5+5+6+6) |
-| Täyskäsi, joka koostuu kolmesta vitosesta ja kahdesta kuutosesta | 15 pistettä (1+2+3+4+5) |
+| Nelösluku kakkosista | 8 pistettä (2+2+2+2) |
+| Pieni suora | 15 pistettä (1+2+3+4+5) |
+| Iso suora | 20 pistettä (2+3+4+5+6) |
+| Täyskäsi, joka koostuu kolmesta vitosesta ja kahdesta kuutosesta | 27 pistettä (5+5+5+6+6) |
 | Sattuma, joka koostuu kolmesta kakkosesta ja kahdesta ykkösestä | 8 pistettä (2+2+2+1+1) |
 | Yatzy, joka koostuu viidestä kolmosesta | 50 pistettä |
 
 ![yatzy esimerkkilaskelma osa 1](/images/yatzy-esimerkkilaskelma-osa-1.webp)
 
-Täytät Yatzy-arkkisi (jonka voit ladata ilmaiseksi täältä) seuraavasti (katso yllä oleva taulukko tai alla oleva kuva):
+Täytät Yatzy-taulukkosi seuraavasti (katso yllä oleva taulukko tai alla oleva kuva):
 
 ![yatzy esimerkkilaskelma osa 2](/images/yatzy-esimerkkilaskelma-osa-2.webp)
 
-Aloitat aina laskemalla ensimmäisen osan, joka koostuu kuudesta ensimmäisestä ruudusta. Koska sait yhteensä 79 pistettä kuudessa ensimmäisessä ruudussa Yatzy-taulukossa (ykköset, kakkoset, kolmoset, neloset, vitoset, kuutoset), saat myös 50 pisteen bonuksen. Kaikki pelaajat, jotka saavat 63 pistettä tai enemmän kuudessa ensimmäisessä ruudussa yatzy-paperilla, saavat tämän bonuksen!
+Aloitat aina laskemalla ensimmäisen osan, joka koostuu kuudesta ensimmäisestä ruudusta. Koska sait yhteensä 79 pistettä kuudessa ensimmäisessä ruudussa, saat myös 50 pisteen bonuksen (koska 79 > 63).
 
-Joten, jos sait 63 pistettä tai enemmän, täytä bonusruutu 50 pisteellä. Jos sait vähemmän, kirjoita 0. Sen jälkeen jatka laskemista ja lisää ylemmän osan + bonus + alemman osan pisteet yhteen. Se on summa tai kokonaismäärä.
+Sen jälkeen jatka laskemista ja lisää ylemmän osan + bonus + alemman osan pisteet yhteen. Se on kokonaissumma.
 
-Korkeimman pistemäärän saanut voittaa!
+### Voittaja
 
-Pikavinkki pisteiden laskemiseen: pisteet vastaavat aina noppaa. Ainoa poikkeus on, kun saat Yatzy, **joka on aina 50 pistettä arvoinen!**
+Pelin voittaa pelaaja, jonka kohdistamien pisteiden kaikki rivit on täytetty ja jolla on korkein pistemäärä!
 
-![Yatzy-strategiat](/images/Yatzy-strategiat.webp)
+---
 
-## Yatzy-strategiat
+## 5. Strategiat Aloittelijoille ja Asiantuntijoille
 
-Yatzy ei ole pelkkää onnea. Oikealla strategialla voit todella parantaa voittomahdollisuuksiasi. Lue eteenpäin ja löydä avainstrategiat, jotka voivat muuttaa pelikierroksiasi ja päihittää ystäväsi ja perheesi!
+Oikealla strategialla voit todella parantaa voittomahdollisuuksiasi. Tässä on kokoelma strategioita, joita käytän itse.
 
-### Panosta aina Yatzyyn
+### Varmista Bonus
 
-**Panosta aina Yatzyyn.** Yatzy on sekä strategia- että onnenpeli. On olemassa niksejä, joilla voit lisätä mahdollisuuksiasi saada Yatzy joka kierroksella.
-
-Pelissä alussa, jos näet mahdollisuuden Yatzyyn, tähtää siihen matalamman pistemäärän sijaan. Mitä aikaisemmin saat Yatzyn, sitä parempi.
-
-### Panosta aina 50 pisteen bonukseen
-
-**Tähtää 50 pisteen bonukseen.** Joskus voi olla vaikeaa päättää, mihin kirjoitat pisteesi. Mutta, jos pidät mielessäsi 50 pisteen bonuksen, se voi auttaa sinua suunnittelemaan.
-
-Korkeat pisteet pienillä numeroilla, kuten ykkösillä ja kakkosilla, ovat harvinaisia. On siis edullista kirjoittaa pisteesi yläosaan, jos heität monta ykköstä tai kakkosta.
-
-Kuvitellaan, että heität noppia niin, että sinulla on kolme kakkosta, yksi vitonen ja yksi kuutonen (2-2-2-5-6) kolmen kierroksen jälkeen.
-
-Voit kirjoittaa 6 pistettä joko kakkosruutuun tai kuutosruutuun. Sinun tulisi aina pyrkiä merkitsemään tämä kakkosruutuun. Tämä johtuu siitä, että eniten mitä voit saada kakkosruudussa olisi 8 tai 10. Suurin pistemäärä kuutosruudussa on kuitenkin 30 tai 36. Et siis halua täyttää kuutosruutua matalilla pisteillä, jotta voit helpommin saada bonuksen.
+**Tähtää 50 pisteen bonukseen.** Korkeat pisteet pienillä numeroilla, kuten ykkösillä ja kakkosilla, ovat harvinaisia. On siis edullista kirjoittaa pisteesi yläosaan, jos heität monta ykköstä tai kakkosta. Esimerkiksi, jos saat kolme kakkosta (6 pistettä), on usein fiksumpaa ottaa se kuin toivoa 24 pistettä kuutosista.
 
 ### Tähtää suoriin
 
-**Pyri saamaan suorat pelin alussa.** Viimeinen asia mitä haluat, on nollata jokin alarivin ruuduista. Näissä ruuduissa on mahdollisuus korkeisiin pistemääriin. Siksi hyvä strategia on yrittää saada suorat mahdollisimman aikaisin, jotta voit myöhemmin keskittyä Yatzyn saamiseen. Etsi yhdistelmiä kuten:
+**Pyri saamaan suorat pelin alussa.** Viimeinen asia mitä haluat, on nollata jokin alarivin ruuduista. Hyvä strategia on yrittää saada Pieni tai Iso suora mahdollisimman aikaisin. Hyvä nyrkkisääntö on tavoitella suoraa vain, jos sinulla on jo 2–3–4–5 tai vastaava.
 
-- kaksi, kolme, neljä
-- neljä, viisi, kuusi
+### Kolme Kuutosta Aikaisin
 
-Heitä noppia uudelleen tarvittaessa saadaksesi suoran pelin alussa.
+Sijoita ne **Kolmoislukuun** (18 pistettä) ja säästä mahdollisuus saada lisää kuutosia yläosaan myöhemmin.
 
-### Joskus on viisasta uhraa Yatzy
+### Yliviivaa Oikein
 
-**Joskus on parempi laittaa Yatzy yläosan pisteosioon.** Yatzyn saaminen on melko harvinaista, vaikka olisitkin hyvällä strategialla liikkeellä. Jos pisteet ovat tasaiset ja peli on loppupuolella, mutta et ole vielä saanut Yatzya, se saattaa olla kannattavaa laittaa korkea Yatzy yläosaan. Ainakin, jos et ole saanut tarpeeksi pisteitä bonusta varten!
+-   Älä koskaan yliviivaa Yatzya.
+-   Pieni suora (15p) on usein paras uhrattava, jos on pakko.
+-   Ajattele hyökkäävästi – yliviivaa Täyskäsi mieluummin kuin Nelosluku.
 
-Yatzyn asettaminen yläosaan takaa useimmiten bonuksen saamisen, mikä voi tarkoittaa korkeampaa pistemäärää. Esimerkiksi viisi kuutosta plus 50 pisteen bonus antaa sinulle 80 pistettä. Yatzy on kuitenkin arvoltaan vain 50.
+### Panosta aina Yatzyyn
 
-![yatzy historia fi](/images/yatzy-historia-fi.webp)
+**Panosta aina Yatzyyn.** Pelin alussa, jos näet mahdollisuuden Yatzyyn, tähtää siihen matalamman pistemäärän sijaan. Mitä aikaisemmin saat Yatzyn, sitä parempi.
 
-## Yatzy Historia
+### Ura Yatzy?
 
-Yatzy er et spil, der nydes af både unge og gamle over hele verden. Alt hvad du behøver for en sjov tid er fem terninger, papir og en blyant. Men hvem var det egentlig, der opfandt dette spil? Lad os dykke ned i Yatzy regler og historien bag.
+**Joskus on parempi laittaa Yatzy yläosan pisteosioon.** Vaikka Yatzyn saaminen on harvinaista, jos peli on loppupuolella etkä ole vielä saanut bonusta, voi olla kannattavaa laittaa korkea Yatzy (kuten viisi kuutosta) yläosaan.
 
-### Yatzyn Tarina
+Yatzyn asettaminen yläosaan takaa useimmiten bonuksen saamisen. Viisi kuutosta (30 pistettä) plus 50 pisteen bonus antaa sinulle 80 pistettä. Yatzy on kuitenkin arvoltaan vain 50.
 
-ahtzee (Yatzy suomeksi) sai alkunsa varakkaan kanadalaisparin toimesta, joka kehitti pelin pelattavaksi heidän jahdillaan. Kun heidän ystävänsä kutsuttiin mukaan, pariskunta opetti heille kuinka tätä ”Yacht”-peliä pelataan. Ystävät rakastuivat peliin niin paljon, että he halusivat omat kopionsa ja niin ajatus oikeasta pelistä syntyi!
+### Asiantuntijastrategia: Mukauta peliä
 
-Vuonna 1956 pariskunta otti yhteyttä Mr. Edwin S. Lowe -nimiseen henkilöön, mies joka oli tehnyt omaisuuden myymällä Bingopelejä 1920-luvulla. He pyysivät häntä valmistamaan muutaman pelikopion lahjaksi. Lowe ihastui peliin niin paljon, että hän tarjoutui ostamaan pelin oikeudet. Pariskunta suostui myymään oikeudet ensimmäisten 1 000 valmistetun pelikopion hinnalla. Myöhemmin Lowe vaihtoi pelin nimeksi Yahtzee.
+Strategiasi täytyy muuttua sen mukaan, kuinka monta ruutua on jäljellä.
 
-#### Yatzyn Lanseeraus
+**Alkupeli (Kierrokset 1-5): Pelaa Hyökkäävästi.** Tässä vaiheessa sinulla on varaa ottaa riskejä. Hajota matala pari (kuten 2:t tai 3:t) tavoitellaksesi suoraa tai korkeampaa paria. Tähtää korkealle 'Kuutosiin' ja 'Viitosiin'.
 
-Vaikka Mr. Lowe yritti markkinoida peliä minkä ehti, ensimmäisen vuoden myynti ei ollut erityisen hyvä. Peliä oli vaikea kuvailla mainoksissa, ja se piti kokea itse ymmärtääkseen sen hauskuuden. Siksi Lowe alkoi pitää Yahtzee-juhlia, ja pian pelistä tuli suosittu suusanallisesti levinneen maineen ansiosta.
+**Keskipeli (Kierrokset 6-10):** Nyt taulukko alkaa täyttyä. Keskity 100% varmistamaan 63 pistettä bonusta varten. Ota varma 12 pistettä 'Nelosista' sen sijaan, että yrität saada Täyskättä.
 
-#### Milton Bradleyn Osto
+**Loppupeli (Kierrokset 11-15):** Nyt kaikki pyörii nollien välttämisen ympärillä. On voitto saada 2 pistettä 'Ykkösiin', jos vaihtoehtona on yliviivata 'Kolmoisluku'. Käytä 'Sattuma'-ruutusi nappaamaan hyvä heitto (kaikki yli 20 pistettä on hyvä), joka ei sovi mihinkään muualle.
 
-Milton Bradley -yritys osti E. S. Lowe Companyn ja Yahtzeen vuonna 1973. Nykyään myydään yli 50 miljoonaa Yatzy-peliä vuosittain. Arvioidaan, että 100 miljoonaa ihmistä pelaa Yatzyä säännöllisesti.
+---
 
-#### Yatzyn Menestys
+## 6. Yatzyn Variaatiot
 
-Yatzy on voittanut miljoonien sydämet ja juhli 60-vuotispäiväänsä vuonna 2016. Kaikki tämä on mahdollista, koska ihmiset, kuten sinä, jatkavat pelin suosion levittämistä.
+Klassisten sääntöjen lisäksi Yatzystä on olemassa useita variaatioita. Tässä suosituin:
 
-#### Yatzy Suomessa: Suosittu Ajanviete
+### Yatzy Pakolla (Yatzy ylhäältä alas)
 
-Yatzy on tullut suosituksi peliksi suomalaisten keskuudessa sen yksinkertaisuuden ansiosta. Peli on löytänyt vankan paikan peliharrastajien sydämissä ympäri maata. Joitakin tunnetuimpia merkkejä, jotka myyvät Yatzya Suomessa ovat:
+Säännöt ovat samat kuin tavallisessa Yatzyssä, mutta yhdellä erolla: sinun täytyy täyttää taulukko järjestyksessä, ylhäältä alas.
 
-- Alga
-- Kärnan
-- Tactic
+#### Yatzy pakolla
 
-Pelin suosio johtuu pitkälti sen yksinkertaisista yatzy säännöistä, joten koko perhe voi nauttia siitä. Juuri tämä yksinkertaisuus tekee siitä niin houkuttelevan, ja monet haluavat pelata Yatzya yhä uudelleen ja uudelleen.
+Kun pelaat Yatzyä pakolla, pelaajien on täytettävä Yatzy-taulukko ylhäältä alas. Aloitat ykkösistä ja jatkat sitten alaspäin järjestyksessä. Jos et onnistu saamaan mitään, saat **0 pistettä** siihen ruutuun.
 
-![Miten Yatzy eroaa Yahtzeestä](/images/Miten-Yatzy-eroaa-Yahtzeesta.webp)
+#### Bonus Yatzy pakolla
 
-## Miten Yatzy eroaa Yahtzeestä?
+Kun pelaat Yatzyä ylhäältä alas, bonus myönnetään pelaajalle, joka on saanut vähintään **42 pistettä** yläosasta (vrt. 63 tavallisessa). Tämä vastaa keskimäärin kahta jokaista kohdetta varten. Bonus antaa sinulle 50 lisäpistettä.
 
-Yatzy, kuten me tunnemme pelin Suomessa, sisältää joitakin erityispiirteitä, jotka erottavat sen alkuperäisestä Pohjois-Amerikasta tulevasta Yahtzeesta. Pääosin pelit ovat hyvin samankaltaisia, mutta katsotaanpa tarkemmin, mikä niitä erottaa.
+#### Yatzy puolipakolla
 
-### Pari ja kaksi paria puuttuvat
+Pelatessasi Yatzyä puolipakolla aloitat taulukon yläosasta. Erona on, että voit vapaasti valita, missä järjestyksessä täytät yläosan ruudut. Yläosan valmistuttua jatkatte kuten tavallisesti alaosassa.
 
-Ensimmäinen ero, jonka huomaat pelatessasi Yahtzeeta Yatzyn sijaan, on se, ettei pistetaulukossa ole rivejä Parille ja Kahdelle Parille.
+---
 
-Yahtzeessa näitä yhdistelmiä yksinkertaisesti ei ole.
+## 7. Yhteenveto
 
-### Pistelasku kolmoislukuun, nelöslukuun ja täyskäteen
+Nyt sinulla on kaikki tarvittava voittaaksesi Yatzy-pelin. Jos et ole koskaan pelannut, saatat tarvita muutaman testikierroksen päästäksesi vauhtiin. Kun olet tutustunut sääntöihin ja oppinut yhdistelmät, voittaminen on itse asiassa melko helppoa. Onnea matkaan!
 
-Kolmoislukujen ja nelöslukujen pistelaskussa on myös eroja. Suomessa, jos heität 5-5-5-5-6, saat kolmoislukuun 15 pistettä ja nelöslukuun 20 pistettä. Mutta Yahtzeessa lasket yhteen kaikki nopat, mikä tarkoittaa, että sekä kolmois- että nelösluku tällä yhdistelmällä antavat 26 pistettä.
+---
 
-Yahtzeen täyskädessä saat aina 15 pistettä riippumatta sen sisällöstä, kun taas Yatzyssa lasket noppiesi pisteet yhteen.
+## 8. Usein Kysytyt Kysymykset (FAQ)
 
-### Yatzyn suorat
+**K: Kuinka monta pistettä bonuksesta?**
+V: 63 pistettä tai enemmän yläosasta = 50 bonuspistettä. (Pakko-Yatzyssä raja on 42 pistettä).
 
-Pieni suora Yatzyssa koostuu aina luvuista **1-2-3-4-5**, kun taas iso suora koostuu aina luvuista 2- **3-4-5-6**. Toisin sanoen kaikki viisi noppaa otetaan huomioon.
+**K: Mitä Täyskäsi tarkoittaa yatzyssa?**
+V: Täyskäsi koostuu kolmoisluvusta (kolme samaa) ja parista (kaksi samaa).
 
-#### Pieni suora Yahtzeessa
+**K: Mitä Sattuma tarkoittaa yatzyssa?**
+V: Sattuma on "vapaa" ruutu, johon voit laskea kaikkien viiden nopan summan, riippumatta siitä, mitä ne näyttävät.
 
-Yahtzeessa pieni suora koostuu vain neljästä nopasta. Se on helpompi saavuttaa ja voidaan muodostaa seuraavilla yhdistelmillä:
+**K: Kuinka monta pistettä yatzy on arvoinen?**
+V: Yatzy (viisi samaa noppaa) on aina 50 pisteen arvoinen.
 
-- 1-2-3-4
-- 2-3-4-5
-- 3-4-5-6
+**K: Mitä tapahtuu, jos Yatzy-ruutu on jo täytetty?**
+V: Saat käyttää heiton toisessa sopivassa ruudussa (esim. 'Kuutoset', jos sinulla on viisi kuutosta) tai yliviivata toisen ruudun.
 
-Pieni suora Yahtzeessa antaa lisäksi 30 pistettä, kun taas Yatzyssa se antaa 15 pistettä.
+**K: Paljonko on yatzyn maksimipisteet?**
+V: 374 pistettä on teoreettinen maksimipistemäärä. Useimmissa peleissä 250–300 pistettä on erittäin vaikuttava tulos.
 
-#### Iso suora Yahtzeessa
+**K: Voiko Kolmoisluvun käyttää Parina?**
+V: Kyllä, saat itse valita, mitkä nopat lasket. Jos sinulla on 5-5-5, voit valita ottaa 10 pistettä 'Pari'-ruutuun.
 
-Yatzyssa iso suora sisältää, kuten sanottu, aina numerot 2-3-4-5-6. Yatzyssa on siis vain yksi iso suora. Yahtzeessa iso suora on suora, joka sisältää kaikki nopat, joten siinä on kaksi mahdollisuutta saavuttaa iso suora:
+**K: Mikä ero on Yatzyn ja Yahtzeen välillä?**
+V: Suurin ero on pistelaskussa. Yahtzeessa (amerikkalainen versio) lasketaan *kaikkien* noppien summa 3- ja 4-samankaltaisissa, Pieni suora on 4 noppaa (30p), Iso suora 5 noppaa (40p) ja Täyskäsi antaa aina 25 pistettä.
 
-- 1-2-3-4-5
-- 2-3-4-5-6
+**K: Kuka keksi Yatzyn?**
+V: Kanadalainen pariskunta vuonna 1954. Pelin teki suosituksi Edwin S. Lowe vuonna 1956.
 
-Kuten näet, Yatzyn pieni suora lasketaan Yahtzeessa isoksi suoraksi!
+---
 
-Iso suoran pisteet ovat 40 Yahtzeessa ja 20 Yatzyssa.
+## 9. Pikaopas ja Sanasto
 
-### Bonuspisteiden ero
+### Pikaopas (tavallinen Yatzy)
 
-Toinen merkittävä ero on bonuspisteissä. Kun Yatzyssa palkitaan 50 bonuspisteellä, Yahtzee-pelaajien on tyydyttävä 35 pisteeseen.
+-   Työskentele bonuksen eteen aikaisin. Se on 50 pisteen arvoinen.
+-   Ykköset = "pelastusruutu".
+-   Kolme kuutosta aikaisin → Harkitse 'Kolmoislukua'.
 
-Toisaalta Yahtzeessa voit saada ylimääräisiä bonuspisteitä, jos olet jo saanut Yahtzeen (viisi samaa numeroa). Jokaisesta lisä-Yahtzeesta saat 100 ylimääräistä pistettä! Mutta vain, jos olet jo merkinnyt yahtzee yatzy taulukkoon.
+### Sanasto
 
-![Yleisiä kysymyksiä Yatzysta](/images/Yleisia-kysymyksia-Yatzysta.webp)
+| Käsite | Selitys |
+| :--- | :--- |
+| **Säästää** | Pitää nopat heittojen välissä. |
+| **Taulukko/Protokolla** | Pistelehtiö. |
+| **Yliviivata** | Täyttää ruutu 0 pisteellä. |
+| **Bonus** | +50 pistettä, kun yläosassa 63+. |
+| **Pelastusruutu** | Ruutu, jonka "uhraat" huonolla heitolla (esim. 'Ykköset'). |
 
-## Yatzy säännöt ja usein kysytyt kysymykset
-
-Tervetuloa FAQ-osioomme Yatzysäännöt.com-sivustolla! Olemme koonneet tähän usein kysyttyjä kysymyksiä ja vastauksia yatzysta. Olitpa sitten aloittelija tai kokeneempi pelaaja, löydät täältä hyödyllistä tietoa pelin parantamiseksi. Sukella sisään ja löydä vastaukset kaikkeen, mitä olet miettinyt yatzysta!
-
-### **Usein kysytyt kysymykset**
-
-### **Mikä on Yatzy?**
-
-Yatzy on suosittu noppapeli, jossa pelaajat heittävät viittä noppaa pyrkien saamaan erilaisia yhdistelmiä ja maksimoimaan pisteensä.
-
-### **Kuinka monta noppaa yatzyssa käytetään?**
-
-Yatzyssa käytetään aina viittä noppaa.
-
-### **Miten Yatzya pelataan?**
-
-Yatzya pelataan heittämällä noppia ja pyrkimällä saamaan erilaisia yhdistelmiä. Tavoitteena on kerätä mahdollisimman paljon pisteitä näiden yhdistelmien avulla.
-
-### **Kuinka monta pistettä saa yatzyn bonuksesta?**
-
-Yatzyn bonuksen saamiseksi on kerättävä 63 pistettä tai enemmän yläosion yhdistelmistä, mikä antaa 50 pisteen bonuksen.
-
-### **Milloin saa yatzyn bonuksen?**
-
-Yatzyn bonuksen saa, kun on kerännyt 63 pistettä tai enemmän yatzyn yläosan yhdistelmistä.
-
-### **Kuinka monta pistettä yatzy on arvoinen?**
-
-Yatzy, jossa kaikki nopat näyttävät samaa numeroa, on arvoltaan 50 pistettä.
-
-### **Mitä Täyskäsi tarkoittaa yatzyssa?**
-
-Täyskäsi yatzyssa koostuu kolmoisluvusta (kolme samaa numeroa osoittavaa noppaa) ja parista (kaksi samaa numeroa osoittavaa noppaa). Kolmoisluvun ja parin numerot eivät saa olla samat. Pisteet lasketaan kaikkien noppaheitojen summana.
-
-### **Miten saa yatzyn?**
-
-Yatzyn saamiseksi kaikkien viiden nopan on näytettävä samaa numeroa.
-
-### **Paljonko on yatzyn maksimipisteet?**
-
-Yatzyn maksimipisteet ovat 374 pistettä.
-
-### **Mitä Sattuma tarkoittaa yatzyssa?**
-
-Sattuma yatzyssa tarkoittaa, että voit laskea yhdistelmäksi minkä tahansa heiton pisteet. Toisin sanoen, voit kirjoittaa mitä tahansa Sattuma-ruutuun.
-
-### **Mistä nimi Yatzy tulee?**
-
-Sana “Yatzy” on keksitty sana, joka tulee pelin englanninkielisestä nimestä Yahtzee. Myös Yahtzee on keksitty nimi ja tulee sanasta yacht, suuri vene. Pelin nimi tulee siitä, että peli kehitettiin veneessä.
-
-### Kuinka paljon yatzy on arvoinen?
-
-Yatzy, jossa kaikki nopat näyttävät samaa numeroa, on arvoinen 50 pistettä.
-
-### Mikä on Yahtzee?
-
-Yahtzee on Yatzyn pohjoisamerikkalainen versio, johon alkuperäinen Yatzy perustuu.
-
-### Mikä ero on Yatzyn ja Yahtzeen välillä?
-
-Pelien erona on, että yatzyssa on kaksi ylimääräistä yhdistelmää, yhdistelmät lasketaan eri tavalla ja pisteet ja bonukset lasketaan eri tavalla. Muuten pelit ovat hyvin samankaltaisia.
-
-Toivomme, että tämä FAQ vastasi kysymyksiisi! Jos sinulla on lisäkysymyksiä yatzyyn liittyen, älä epäröi ottaa meihin yhteyttä.
-
-## Ilmainen Yatzy taulukko
-
-Alapuolelta löydät erilaisia Yatzy taulukkoja, jotka voit ladata täysin ilmaiseksi.
-
-Voit myös valita tulostaa Yatzy taulukot eri koossa. Olemme tehneet taulukot kahteen eri kokoon, suuriin ja pieniin. Suuri versio kattaa koko A4-sivun. Jos valitset pienemmän, voit tulostaa neljä Yatzy taulukkoa yhdelle A4-sivulle.
-
-![Yatzy protokoll färg 1 st](/images/Yatzy-protokoll-farg-1-st.webp)
-
-## YATZY TAULUKKO VÄREISSÄ 1 KPL SIVUA KOHTI
-
-Tulosta suuri värillinen Yatzy taulukkomme. Taulukko kattaa koko A4-sivun ja sopii täydellisesti, jos haluat enemmän tilaa kirjoittamiseen. Lataa PDF ilmaiseksi ja tulosta normaalisti.
-
-[LATAA VÄRILLINEN YATZY TAULUKKO PDF](/pdfs/yatzy-protokoll-farg.pdf)
-
-![Yatzy protokoll färg 4 st](/images/Yatzy-protokoll-farg-4-st.webp)
-
-## YATZY TAULUKKO VÄREISSÄ 4 KPL SIVUA KOHTI
-
-Jos haluat säästää paperia ja olla ympäristöystävällinen, pienempi värillinen Yatzy taulukkomme voi olla parempi vaihtoehto. Täältä saat neljä taulukkoa yhdelle A4-sivulle, jossa on marginaali, jonka avulla voit helposti leikata ne irti. Lataa PDF ilmaiseksi ja tulosta normaalisti.
-
-[LATAA 4 KPL VÄRILLISTÄ YATZY TAULUKKOA PDF](/pdfs/Yatzy-protokoll-4-st-farg.pdf)
-
-Kiitos, kun vierailit sivullamme Yatzy-säännöistä! Täältä sait kaiken tarvitsemasi tietää hallitaksesi tämän klassisen noppapelin: viralliset säännöt, joukon strategiavinkkejä, syvällisen sukelluksen Yatzyn rikkaaseen historiaan ja jännittävät erot Yatzyn ja Yahtzee’n välillä. Nyt kun olet varustettu tiedolla, on aika heittää nopat ja nauttia unohtumattomista pelihetkistä.
-
-Onnea matkaan ja saakoon paras Yatzy-pelaaja voiton! 🎲🌟
-
-## **Auta meitä parantamaan**
-
-Haluamme kiittää kaikkia, jotka ovat osallistuneet sivustoomme. Kommenttisi ja ehdotuksesi ovat korvaamattomia ja auttavat meitä jatkuvasti parantamaan ja kehittämään Yatzy-sisältöämme. Olitpa antanut ideoita, ilmoittanut virheistä tai vain arvostanut sivustoamme, panoksesi tekee suuren eron. Odotamme innolla palautettasi, jotta voimme pysyä parhaana resurssina Yatzy-sääntöjen osalta.
+---

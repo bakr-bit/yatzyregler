@@ -543,4 +543,3 @@ Good luck, and may the best Yahtzee player win! 🎲🌟
 
 We’d like to sincerely thank everyone who has engaged with our site. Your comments and suggestions are invaluable and help us continuously improve and develop our content on Yahtzee. Whether you’ve contributed ideas, reported errors, or simply appreciated our site, your involvement makes a big difference. We look forward to continuing to receive your feedback so we can remain the top resource for Yahtzee rules.
 
-[Rulla till toppen](/yahtzee-rules/ "Rulla till toppen")
