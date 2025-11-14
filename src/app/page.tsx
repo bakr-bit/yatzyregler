@@ -157,7 +157,7 @@ export default async function Home() {
         description={content.description}
         url="/"
         publishedDate="2024-01-01T00:00:00Z"
-        modifiedDate="2025-11-10T00:00:00Z"
+        modifiedDate="2025-11-14T00:00:00Z"
         imageUrl="/images/Yatzy-regler-svensk-guide.webp"
       />
       <AuthorSchema
@@ -196,7 +196,7 @@ export default async function Home() {
             />
             <span className={styles.authorName}>Fredrik</span>
             <span className={styles.separator}>•</span>
-            <span className={styles.lastUpdated}>Senast uppdaterad: 10 november 2025</span>
+            <span className={styles.lastUpdated}>Senast uppdaterad: 14 november 2025</span>
           </div>
         </div>
         <svg className={styles.wave} viewBox="0 0 1440 120" preserveAspectRatio="none">
