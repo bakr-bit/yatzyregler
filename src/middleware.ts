@@ -12,8 +12,8 @@ export function middleware(request: NextRequest) {
     return NextResponse.redirect(url, { status: 301 });
   }
 
-  // Block all Danish subpages (but allow /da homepage)
-  if (pathname.startsWith('/da/')) {
+  // Block all Danish subpages (but allow /da and /da/ homepage)
+  if (pathname.startsWith('/da/') && pathname !== '/da/') {
     return new NextResponse('Gone', { status: 410 });
   }
 
