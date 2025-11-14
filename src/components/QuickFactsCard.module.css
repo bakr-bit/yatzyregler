@@ -1,0 +1,82 @@
+.quick-facts-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 16px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 8px 24px rgba(102, 126, 234, 0.3);
+  color: white;
+}
+
+.quick-facts-card h3 {
+  margin: 0 0 1.5rem 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.facts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.fact-item {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.fact-icon {
+  font-size: 2rem;
+  flex-shrink: 0;
+}
+
+.fact-item strong {
+  display: block;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.25rem;
+  opacity: 0.9;
+}
+
+.fact-item p {
+  margin: 0;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.fact-item ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 1rem;
+}
+
+.fact-item ul li {
+  margin: 0.25rem 0;
+}
+
+.fact-goal {
+  grid-column: 1 / -1;
+}
+
+.fact-goal p {
+  font-size: 1rem;
+  line-height: 1.5;
+  opacity: 0.95;
+}
+
+@media (max-width: 768px) {
+  .quick-facts-card {
+    padding: 1.5rem;
+  }
+
+  .facts-grid {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .fact-icon {
+    font-size: 1.75rem;
+  }
+}

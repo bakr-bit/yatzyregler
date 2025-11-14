@@ -186,6 +186,19 @@
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.16);
 }
 
+/* Image captions (italic text immediately after images) */
+.content img + p {
+  text-align: center;
+  font-size: 0.9375rem;
+  color: #6b7280;
+  margin-top: -1.5rem;
+  margin-bottom: 2rem;
+}
+
+.content img + p em {
+  font-style: italic;
+}
+
 /* Protocol download images (linked images) */
 .content a > img {
   max-width: 300px;
@@ -637,6 +650,11 @@
     border-radius: 8px;
   }
 
+  .content img + p {
+    font-size: 0.875rem;
+    margin-top: -1rem;
+  }
+
   .content a > img {
     max-width: 250px;
   }
@@ -743,6 +761,11 @@
 
   .content a > img {
     max-width: 200px;
+  }
+
+  .content img + p {
+    font-size: 0.8125rem;
+    margin-top: -0.75rem;
   }
 
   .content blockquote {

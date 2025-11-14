@@ -150,3 +150,102 @@ export function ToplistSchema({ items }: ToplistSchemaProps) {
     />
   );
 }
+
+interface HowToStep {
+  name: string;
+  text: string;
+  image?: string;
+}
+
+interface HowToSchemaProps {
+  name: string;
+  description: string;
+  steps: HowToStep[];
+  totalTime?: string;
+  estimatedCost?: string;
+  supply?: string[];
+  tool?: string[];
+}
+
+export function HowToSchema({
+  name,
+  description,
+  steps,
+  totalTime,
+  estimatedCost,
+  supply,
+  tool,
+}: HowToSchemaProps) {
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    name: name,
+    description: description,
+    ...(totalTime && { totalTime: totalTime }),
+    ...(estimatedCost && { estimatedCost: { '@type': 'MonetaryAmount', currency: 'SEK', value: estimatedCost } }),
+    ...(supply && supply.length > 0 && {
+      supply: supply.map(item => ({
+        '@type': 'HowToSupply',
+        name: item,
+      })),
+    }),
+    ...(tool && tool.length > 0 && {
+      tool: tool.map(item => ({
+        '@type': 'HowToTool',
+        name: item,
+      })),
+    }),
+    step: steps.map((step, index) => ({
+      '@type': 'HowToStep',
+      position: index + 1,
+      name: step.name,
+      text: step.text,
+      ...(step.image && {
+        image: {
+          '@type': 'ImageObject',
+          url: `https://www.yatzyregler.com${step.image}`,
+        },
+      }),
+    })),
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
+interface GameSchemaProps {
+  name: string;
+  description: string;
+  numberOfPlayers: string;
+  playTime: string;
+  gameCategory: string;
+}
+
+export function GameSchema({
+  name,
+  description,
+  numberOfPlayers,
+  playTime,
+  gameCategory,
+}: GameSchemaProps) {
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'Game',
+    name: name,
+    description: description,
+    numberOfPlayers: numberOfPlayers,
+    playTime: playTime,
+    gameCategory: gameCategory,
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
