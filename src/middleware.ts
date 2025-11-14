@@ -26,7 +26,12 @@ export function middleware(request: NextRequest) {
     '/spela-pa-natet-utan-att-aventyra-din-sakerhet',
   ];
 
-  if (blockedSwedishArticles.includes(pathname)) {
+  // Block English pages
+  const blockedEnglishPages = [
+    '/yahtzee-rules',
+  ];
+
+  if (blockedSwedishArticles.includes(pathname) || blockedEnglishPages.includes(pathname)) {
     return new NextResponse('Gone', { status: 410 });
   }
 
