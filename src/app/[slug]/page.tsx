@@ -162,7 +162,7 @@ export default async function ContentPage({ params }: PageProps) {
         <ArticleSchema
           title={content.title}
           description={content.description}
-          url={`/${slug}`}
+          url={`/${slug}/`}
         />
         <AuthorSchema
           name="Fredrik"
@@ -234,7 +234,7 @@ export default async function ContentPage({ params }: PageProps) {
       <ArticleSchema
         title={content.title}
         description={content.description}
-        url={`/${slug}`}
+        url={`/${slug}/`}
       />
       <AuthorSchema
         name="Fredrik"

@@ -9,7 +9,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Homepage
   routes.push({
-    url: baseUrl,
+    url: `${baseUrl}/`,
     lastModified: currentDate,
     changeFrequency: 'weekly',
     priority: 1.0,
@@ -22,7 +22,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const locale of locales) {
     if (locale !== 'sv') {
       routes.push({
-        url: `${baseUrl}/${locale}`,
+        url: `${baseUrl}/${locale}/`,
         lastModified: currentDate,
         changeFrequency: 'weekly',
         priority: 0.8,
@@ -60,7 +60,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
 
     routes.push({
-      url: `${baseUrl}/${slug}`,
+      url: `${baseUrl}/${slug}/`,
       lastModified: currentDate,
       changeFrequency,
       priority,
@@ -82,7 +82,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
 
     routes.push({
-      url: `${baseUrl}/${slug}`,
+      url: `${baseUrl}/${slug}/`,
       lastModified: currentDate,
       changeFrequency,
       priority,
@@ -96,7 +96,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     if (slug === 'da') continue;
 
     routes.push({
-      url: `${baseUrl}/${slug}`,
+      url: `${baseUrl}/${slug}/`,
       lastModified: currentDate,
       changeFrequency: 'monthly',
       priority: 0.6,
