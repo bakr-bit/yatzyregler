@@ -132,10 +132,6 @@ En nuestro ejemplo anterior, puedes pensar en volver a lanzar el cuatro y el sei
 
 También puedes optar por rellenar una casilla en la parte superior de tu protocolo de puntuación. Solo recuerda que solo puedes rellenar una casilla en el protocolo y debes rellenar algo en cada ronda. Si no puedes rellenar ninguna casilla, pones un cero en la casilla que elijas.
 
-![Tercer lanzamiento](/images/Tredje-kastet.webp)
-
-*Tercer lanzamiento - tu última oportunidad de conseguir la combinación deseada.*
-
   
 
 ### El arte de guardar dados
@@ -270,9 +266,6 @@ Puede parecer un poco complicado. Así que veamos un ejemplo. Supongamos que lan
 
 Una escalera pequeña da 15 puntos, mientras que una escalera grande da 20 puntos.
 
-![Escalera pequeña y grande en Yatzy](/images/Liten-och-stor-stege-i-Yatzy.webp)
-
-*Escalera Pequeña (1-2-3-4-5) y Escalera Grande (2-3-4-5-6)*
 
 #### Full House
 **Un full house es un par y un trío**. Un full house consiste en un par y un trío. El par y el trío deben ser diferentes, por lo que no puedes usar cinco dados iguales como un full house (ejemplo: si sacas cinco cincos, no puedes contarlos como un par: 5-5 y un trío: 5-5-5).
@@ -339,12 +332,6 @@ Estás jugando al Yatzy con tus amigos y después de 15 rondas es hora de sumar 
 | Full House: tres cincos y dos seises | = 27 puntos (5+5+5+6+6) |
 | Oportunidad: tres doses y dos unos | = 8 puntos (2+2+2+1+1) |
 | Yatzy: cinco treses | = 50 puntos |
-
-![Un ejemplo de puntuación con dados que muestra los puntos en una ronda de ejemplo.](/images/yatzy-poang-rakneexempel-del-1.webp)
-
-Rellenas tu protocolo de Yatzy de la siguiente manera (ver tabla anterior o imagen siguiente):
-
-![Un ejemplo de puntuación en nuestro protocolo de puntuación de yatzy sobre cómo contar puntos en yatzy](/images/yatzy-poang-rakneexempel-del-2.webp)
 
 Siempre empiezas sumando la primera parte, que consiste en las primeras seis casillas. Dado que obtuviste un total de 79 puntos en las primeras seis casillas del protocolo de Yatzy (unos, doses, treses, cuatros, cincos, seises), también recibes un bonus de 50 puntos. ¡Todos los jugadores que obtienen 63 puntos o más en las primeras seis casillas del papel de Yatzy reciben este bonus!
 
