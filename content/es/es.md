@@ -1,301 +1,328 @@
 ---
-title: "Reglas de Yatzy"
-description: "Las reglas de Yatzy son fáciles de aprender. El objetivo del juego es acumular tantos puntos de Yatzy como sea posible. Consulta nuestra guía y descarga el protocolo de Yatzy gratis."
-hero: "¡Bienvenido a la guía definitiva sobre Yatzy reglas! Aquí encontrarás todo lo que necesitas para dominar este popular juego de dados. Ya seas principiante o un jugador experimentado, nuestras reglas claras y sencillas te ayudarán a llevar tu juego al siguiente nivel. Aprende los trucos, estrategias y secretos detrás de las reglas del Yatzy hoy mismo.
-
-En esta página, también encontrarás una guía paso a paso con imágenes reales para que comiences a jugar, además de un protocolo de Yatzy que puedes descargar completamente gratis.
-
-¿A qué esperas? ¡Vamos a empezar con las reglas de Yatzy ahora mismo!"
+title: "Reglas de Yatzy, Puntuación y Bonus: La Guía Completa para Ganar"
+description: "Guía completa de Yatzy con reglas, conteo de puntos, sistema de bonus y estrategias. Aprende cómo conseguir 63 puntos para el bonus y maximizar tus posibilidades de ganar."
+hero: "Yatzy es uno de esos juegos que te acompaña toda la vida. Esta guía repasa cómo funciona el juego, cómo se cuentan los puntos y las consideraciones estratégicas que, en la práctica, deciden quién se levanta victorioso de la mesa."
 url: "/es"
 locale: "es"
 slug: "es"
 ---
-![yatzy reglas espanol](/images/yatzy-reglas-espanol.webp)
 
-## Reglas de Yatzy
 
-A continuación, te presentamos las **reglas oficiales de Yatzy**. Para facilitar aún más la comprensión, en yatzyregler.com hemos añadido ejemplos que aclaran situaciones que pueden ser confusas.
+### Datos rápidos
+  
 
-### **Yatzy**
+-  **Jugadores:** 2+
+-  **Tiempo de juego:** 20–30 min
+-  **Equipamiento:** 5 dados, protocolo de puntuación, lápiz
+-  **Objetivo:** Conseguir 63+ puntos en la parte superior para obtener el bonus (50 puntos) y maximizar los puntos en la parte inferior.
 
-- **Jugadores**: 1 o más
-- **Edad**: 6+
-- **Contenido**: 5 dados, bloc de puntuación
+Yatzy es uno de esos juegos que te acompaña toda la vida. Se juega en vacaciones en la casa de verano, en viajes largos, en la mesa de la cocina un martes cualquiera y durante noches largas cuando nadie quiere irse a dormir.
 
-### **Objetivo del juego**
+Esta guía repasa cómo funciona el Yatzy, cómo se cuentan los puntos y las estrategias que pueden hacerte salir victorioso de la mesa.
 
-Los jugadores deben lograr la mayor cantidad posible de combinaciones de dados. Estas combinaciones se registran en el bloque de puntuación. El jugador que obtenga la mayor puntuación total gana el juego.
+Mi nombre es Fredrik, creador de este sitio, y trabajo como periodista, ¡pero he dedicado la mayor parte de mi vida a los juegos de mesa, especialmente al Yatzy! Mi objetivo es ofrecer una guía completa del juego para que un principiante, después de leer esta página, ¡pueda ganar su primera partida de Yatzy e impresionar a amigos y familiares!
 
-### **Cómo se juega**
+_*Esta guía se basa en las reglas clásicas suecas, con referencia a fabricantes de juegos establecidos como [Alga](https://algaspel.se)._
 
-En cada ronda, tienes derecho a un máximo de tres lanzamientos de dados, aunque no es obligatorio utilizarlos todos. Tú decides qué dados quieres volver a lanzar. Las combinaciones se pueden realizar en cualquier orden.
+---
+### Respuestas rápidas a preguntas comunes
+> -  **¿Cómo se obtiene el bonus en Yatzy?**
+> Obtienes el bonus (50 puntos) si consigues un **total de 63 puntos o más** en la parte superior del protocolo (de Unos a Seises).
+> -  **¿Es necesario tener tres de cada uno para el bonus?**
+> No, es un mito. Solo necesitas 63 puntos en total, sin importar cómo los obtengas (por ejemplo, cinco seises y cinco cincos son suficientes).
+>-  **¿Cuántos puntos vale un Yatzy?**
+> 50 puntos.
+> 
+> -  **¿Cuántos dados se usan?**
+> 5 dados.
 
-![yatzy poäng](/images/yatzy-poang.webp)
+---
 
-#### **Puntuación**
+## 1. Introducción al Yatzy
+  
 
-Elige a un anotador. Cada jugador recibe su propia columna en el bloque de puntuación. La suma de puntos se registra en el lugar correspondiente a cada símbolo.
+### ¿Qué es Yatzy?
 
-> **Ejemplo**:
->
-> En el primer lanzamiento de tres, obtienes 1-4-4-6-6. Decides dejar los dos 6 y lanzar los demás dados nuevamente, lo que da como resultado 6-4-2. Dejas los tres 6 y lanzas el último dado, obteniendo 5-5. El resultado es un **Full House** (6-6-6-5-5) con una suma de puntos de 28.
+Yatzy es un juego de dados que existe desde la década de 1950 y se juega en todo el mundo hasta el día de hoy. Esto se debe en gran parte a su simple premisa: lanzas los dados, guardas los que te ayudan e intentas encontrar combinaciones que den puntuaciones altas.
 
-**Nota**: Cada categoría en el bloque de puntuación solo puede usarse una vez.
+Es a partes iguales suerte y estrategia, pero quien planifica de forma inteligente supera a quien juega sin un plan, eso te lo puedo prometer. Más abajo en la página encontrarás reglas generales y estrategias que yo mismo utilizo cuando juego.
+  
 
-Marca los puntos en el bloque después de cada turno (incluso si el resultado es 0).
+### Objetivo del juego
 
-Si no hay una combinación adecuada disponible y ya has utilizado la opción de ”chance,” deberás tachar una de las combinaciones no utilizadas, lo que se anotará como 0 puntos en el bloque de puntuación.
+Los jugadores intentan conseguir tantas combinaciones de dados diferentes como sea posible. Estas se marcan en el protocolo de puntuación. Las combinaciones se pueden realizar en cualquier orden. El jugador que haya alcanzado la puntuación total más alta gana el juego. 
 
-![yatzy regler vinnare](/images/yatzy-regler-vinnare.webp)
 
-### **Ganador**
+### Equipamiento y Protocolo
+Se requiere un equipamiento mínimo para jugar al Yatzy, todo lo que necesitas es:
 
-El ganador es el jugador que tiene la puntuación más alta cuando se han completado todas las casillas de los jugadores, es decir, después de 15 rondas.
+- Cinco dados
+- Lápiz
+- Protocolo de puntuación
+- Un jugador se encarga de anotar y escribe por todos.
+
+Si te falta algo, como los dados o el lápiz, el móvil ofrece soluciones. He jugado con aplicaciones de dados en lugar de dados reales y he usado el móvil para llevar el protocolo. Créeme, si de verdad quieres jugar, es posible jugar.
+
+#### Descargar Protocolo de Puntuación
+
+He creado mi propio protocolo de puntuación para Yatzy. Además de ser mucho más atractivos que los de Alga, los protocolos están diseñados de forma más pedagógica. Muestran exactamente cómo son las combinaciones de dados, lo que puede ser útil para los principiantes. Puedes descargar los protocolos de puntuación en formato PDF listo para imprimir, ya sea en color o en blanco y negro: 
+
+*[Descargar protocolo en color (PDF)](/pdfs/yatzy-protokoll-farg.pdf) - perfecto para imprimir en impresora a color*
+
+*[Descargar protocolo en blanco y negro (PDF)](/pdfs/yatzy-protokoll-svartvit.pdf) - perfecto para casa y la escuela*
 
 ### **Combinaciones de dados**
 
 Cada combinación otorga puntos según el valor total de los dados en la combinación, a menos que se indique lo contrario.
+| Combinación | Descripción |
+| :--- | :--- |
+| **UNOS – SEISES** | Intenta obtener la mayor cantidad posible del mismo número. |
+| **BONUS** | El jugador que consiga 63 puntos o más en la mitad superior del protocolo obtiene **50 puntos de bono**. |
+| **UN PAR** | Dos dados con el mismo valor. |
+| **DOS PARES** | Un par más otro par. ¡Los pares deben ser diferentes! |
+| **TRÍO** | Tres dados con el mismo valor. |
+| **PÓKER** | Cuatro dados con el mismo valor. |
+| **ESCALERA PEQUEÑA** | Cinco dados que deben mostrar 1-2-3-4-5. **15 puntos**. |
+| **ESCALERA GRANDE** | Cinco dados que deben mostrar 2-3-4-5-6. **20 puntos**. |
+| **FULL HOUSE** | Un par y un trío. |
+| **CHANCE (Oportunidad)** | Se suma el valor de los cinco dados y se registra en el protocolo. **CHANCE** se puede utilizar si no hay otra casilla adecuada disponible. |
+| **YATZY** | Los cinco dados muestran el mismo número. **50 puntos**. |
 
-|     |     |
-| --- | --- |
-| 🎲 **UNOS – SEISES** | Intenta obtener la mayor cantidad posible del mismo número. |
-| 🎁 **BONO** | El jugador que consiga 63 puntos o más en la mitad superior del bloque de puntuación obtiene **50 puntos de bono**. |
-| ⚅⚅ **UNA PAREJA** | Dos dados con el mismo valor. |
-| ⚅⚅⚄⚄ **DOS PAREJAS** | Un par más otro par. ¡Los pares deben ser diferentes! |
-| ⚅⚅⚅ **TRÍO** | Tres dados con el mismo valor. |
-| ⚄⚄⚄⚄ **PÓKER** | Cuatro dados con el mismo valor. |
-| ⚀⚁⚂⚃⚄ **ESCALERA PEQUEÑA** | Cinco dados que deben mostrar 1-2-3-4-5. **15 puntos**. |
-| ⚁⚂⚃⚄⚅ **ESCALERA GRANDE** | Cinco dados que deben mostrar 2-3-4-5-6. **20 puntos**. |
-| ⚄⚄⚄⚅⚅ **FULL HOUSE** | Un par y un trío. |
-| ❓❓❓❓❓ **CHANCE** ( **Oportunidad**) | Se suma el valor de los cinco dados y se registra en el bloque de puntuación. **CHANCE** ( **Oportunidad**)se puede utilizar si no hay otra combinación disponible. |
-| **🆈🅰🆃🆉🆈** | Los cinco dados muestran el mismo número. **50 puntos**. |
 
-¡Diviértete y mucha suerte!
+  
 
-![Yatzy con obligación](/images/Yatzy-con-obligacion.webp)
+## 2. Cómo se juega: Paso a Paso
 
-## Reglas de Yatzy de arriba hacia abajo
+### Preparativos
 
-Una forma popular de jugar Yatzy es utilizando la modalidad de ”arriba hacia abajo”, también conocida como **Yatzy con obligación**. Pero, ¿cuáles son las **reglas de Yatzy de arriba hacia abajo**?
+El primer paso es decidir quién empieza a lanzar. Esto lo podéis decidir vosotros mismos. En mi familia, siempre empieza el más joven, pero también podéis lanzar un dado cada uno para ver quién saca el número más alto y dejar que esa persona comience. Después, os turnáis en el sentido de las agujas del reloj. Escribid vuestros nombres en el protocolo de puntuación (preferiblemente en el mismo orden en que jugáis, para mayor simplicidad). 
 
-Puedes jugar Yatzy de arriba hacia abajo de dos maneras. Estas dos variantes se conocen como Yatzy con obligación o con media obligación. Las **reglas de Yatzy de arriba hacia abajo** para ambos modos son bastante similares.
+![Decidir quién empieza](/images/Bestam-vem-som-borjar.webp)
 
-### Yatzy con obligación
+*¡Deja que el azar decida! Lanzad un dado cada uno para determinar quién empieza el juego. Aquí empieza la persona que sacó el 6.*
+ 
 
-Las **reglas de Yatzy** cuando juegas con obligación son las mismas que las reglas normales. La diferencia es que cada jugador debe completar el bloque de puntuación de Yatzy de arriba hacia abajo. Esto significa que comienzas con los unos y sigues hacia abajo en el mismo orden.
+### Los Tres Lanzamientos
+Cuando sea tu turno, puedes lanzar los dados hasta **tres veces** por ronda.
 
-Al igual que en el Yatzy normal, tienes tres intentos en cada ronda. Si no logras ninguna combinación válida, obtienes 0 puntos.
+1. Lanza los cinco dados.
+2. Elige qué dados quieres conservar y vuelve a lanzar el resto.
+3. Puedes cambiar de opinión y volver a lanzar dados que habías guardado previamente.
+4. No es necesario usar los tres lanzamientos. Si estás satisfecho después del primer lanzamiento, puedes rellenar el protocolo directamente. 
 
-#### Bono de Yatzy de arriba hacia abajo
+#### Primer lanzamiento
+Usemos un ejemplo. Digamos que lanzas (3-3-3-1-6). Tienes un trío (3-3-3), lo que te da 9 puntos. Pero si vuelves a lanzar el uno y el seis, ¡tienes la oportunidad de conseguir un póker, un full house o un Yatzy!
 
-El bono, cuando juegas Yatzy de arriba hacia abajo, se otorga a quien haya logrado al menos 42 puntos en la parte superior del bloque. Esto equivale a un promedio de dos de cada número en todos los campos. El bono te da 50 puntos adicionales.
+![Primer lanzamiento](/images/Forsta-kastet.webp)
 
-### Yatzy de arriba hacia abajo con media obligación
+*Primer lanzamiento - aquí decides qué dados quieres guardar.*
 
-Cuando juegas Yatzy con media obligación, comienzas con la parte superior del bloque de puntuación. La diferencia con Yatzy con obligación es que puedes elegir en qué orden rellenas cada casilla. Una vez que hayas completado la parte superior, continúas con la parte inferior del bloque de puntuación de manera normal. Aquí también el bono de Yatzy se otorga cuando alcanzas los 42 puntos en la parte superior y te da 50 puntos extra. ¡El jugador con la mayor puntuación total gana!
+#### Segundo lanzamiento
+Lanza los dados una segunda vez. Si estás satisfecho con tu primer resultado, puedes añadir tus puntos a tu protocolo de puntuación y terminar tu turno. Pero también puedes intentar conseguir una puntuación aún más alta. Elige qué dados quieres conservar y cuáles quieres volver a lanzar.
 
-Estas son las reglas oficiales de Yatzy en sueco y las reglas de Yatzy de arriba hacia abajo. Si esto es lo que estabas buscando, ¡ya estás listo para comenzar a jugar! Si todavía tienes dudas sobre las reglas de Yatzy y te preguntas cómo se juega Yatzy, nuestra próxima sección es para ti. Allí te explicamos cómo jugar Yatzy paso a paso, ¡junto con imágenes!
+En nuestro ejemplo anterior, puede ser inteligente volver a lanzar el uno y el seis. De esa manera, tienes la oportunidad de conseguir un póker, un full house o un Yatzy. Supongamos que vuelves a lanzar el uno y el seis y obtienes un cuatro y un seis. Los dados en la mesa muestran entonces 3-3-3-4-6. Todavía tienes un trío y te queda un lanzamiento más. No estás obligado a hacerlo, pero aún tienes la oportunidad de conseguir un mejor resultado sin ningún riesgo.
 
-![yatzy guia espanol](/images/yatzy-guia-espanol.webp)
+![Segundo lanzamiento](/images/Andra-kastet.webp)
 
-## Guía: ¿Cómo se juega Yatzy paso a paso?
+*Segundo lanzamiento - vuelve a lanzar los dados que no guardaste.*
+#### Tercer lanzamiento
+Lanza los dados una tercera vez. Si todavía no estás satisfecho con tu resultado después de dos lanzamientos, tienes una última oportunidad de volver a lanzar. Nuevamente, puedes elegir cuántos dados lanzas.
 
-Yatzy es uno de los juegos de dados más queridos en todo el mundo. Es perfecto para noches de juego en casa, en la cabaña o cuando te reúnas con familiares y amigos. Yatzy es fácil de entender y muy divertido, ya sea que juegues con muchas o pocas personas. A continuación, te ofrecemos una guía paso a paso sobre cómo jugar Yatzy. Te recomendamos que leas toda la guía una vez y luego la tengas a mano mientras juegas. Nuestra guía se divide en dos partes:
+En nuestro ejemplo anterior, puedes pensar en volver a lanzar el cuatro y el seis de tu segundo lanzamiento. Si consigues otro tres, puedes anotarlo como un póker; si consigues dos treses, tienes un Yatzy que te da 50 puntos; si obtienes un par, por ejemplo, dos unos, tienes un **Full House** (3-3-3-1-1); y si vuelves a obtener un cuatro y un seis o cualquier otro número, todavía tienes un trío.
 
-Parte 1: El protocolo de Yatzy paso a paso (pasos 1-11)
+También puedes optar por rellenar una casilla en la parte superior de tu protocolo de puntuación. Solo recuerda que solo puedes rellenar una casilla en el protocolo y debes rellenar algo en cada ronda. Si no puedes rellenar ninguna casilla, pones un cero en la casilla que elijas.
 
-Parte 2: Comienza a jugar Yatzy paso a paso (pasos 12-16)
+![Tercer lanzamiento](/images/Tredje-kastet.webp)
 
-## Guía paso a paso de Yatzy
+*Tercer lanzamiento - tu última oportunidad de conseguir la combinación deseada.*
 
-![Reglas de Yatzy](/images/Reglas-de-Yatzy.webp)
+  
 
-El objetivo de Yatzy es lanzar cinco dados para lograr diferentes combinaciones y acumular la mayor cantidad de puntos posible. Al principio, el sistema de puntuación en Yatzy puede parecer complicado, pero con un poco de paciencia, pronto disfrutarás de una emocionante partida de Yatzy.
+### El arte de guardar dados
 
-**Total tid:** 15 minuter
+Guardar dados se trata de construir una combinación que dé el máximo de puntos. Como en el ejemplo anterior, hay varios resultados posibles. Un buen jugador de Yatzy sabe qué dados vale la pena guardar y qué combinaciones vale la pena perseguir.
 
-### Paso 1: El protocolo de Yatzy
 
-![Yatzy protokollet](/images/Yatzy-protokollet.webp)
+### Anotación: La elección obligatoria
 
-**Familiarízate con el protocolo de Yatzy.** En Yatzy, llevas la cuenta de tus puntos en una hoja de papel con 15 casillas, dividida en una parte superior y una parte inferior. Cada vez que sea tu turno, decides qué casilla llenar según tu mejor opción de puntuación. Si no puedes, o decides no anotar puntos, debes escribir un ”0” en una de las casillas. Es decir, debes llenar una casilla en cada ronda.
+En cada ronda, debes rellenar una categoría en el protocolo.
 
-**Recuerda:** cada casilla solo puede llenarse una vez.
+- Una casilla vacía está sin usar. Cuando hay algo escrito en ella (puntos o un tachón), está **bloqueada**.
+- Si obtienes una mano que encaja en varias categorías, elige estratégicamente (ver consejos en la sección 5).
 
-### **Paso 2: La parte superior del protocolo**
 
-![den övre delen av yatzy protokollet](/images/den-ovre-delen-av-yatzy-protokollet.webp)
+### Tachar (Poner un Cero) en una casilla
 
-**Familiarízate con la parte superior del protocolo.** La parte superior del bloque de puntuación se calcula de manera diferente a la parte inferior. En la parte superior, tu objetivo es alcanzar al menos 63 puntos. Si logras sumar 63 puntos o más, recibirás un bono de 50 puntos adicionales.
+Si no obtienes nada que encaje en una categoría disponible, debes tachar una. Esto significa que escribes 0 o un guion (-) en la casilla. Qué casilla tachas afecta a todo el resultado final.
 
-En esta parte hay seis casillas: unos, doses, treses, cuatros, cincos y seises. En **Yatzy**, lanzas 5 dados y en cada turno tienes derecho a lanzar tres veces. Tú decides qué dados quieres conservar y cuáles prefieres lanzar de nuevo. No estás obligado a volver a lanzar los dados si no lo deseas.
+---  
 
-Para llenar las casillas de la parte superior, combinas los valores de los dados que tienen el mismo número y luego escribes la suma en la casilla correspondiente. Solo puedes llenar una casilla por turno.
+## 3. El Protocolo de Puntuación: El Corazón de Yatzy
+![El protocolo de Yatzy](/images/Yatzy-protokollet.webp)
 
-Puede parecer confuso al principio, así que veamos un ejemplo. Imagina que lanzas los dados y después de tres lanzamientos obtienes un cinco, un seis y tres doses.
+*El protocolo de Yatzy se divide en una sección superior y una inferior.*
 
-🎲 **Lanzamiento 1**: 2-2-3-4-6
+### Resumen: Sección Superior e Inferior
 
-🎲 **Lanzamiento 2**: 2-2-2-5-4
+| Sección | Contenido | Objetivo |
+|:---|:---|:---|
+| **Sección superior** | Unos, doses, treses, cuatros, cincos, seises | Apuntar al menos a 63 puntos para el bonus |
+| **Sección inferior** | Par, dos pares, trío, póker, escaleras, full house, chance, yatzy | Maximizar el valor en cada categoría |
 
-🎲 **Lanzamiento 3**: 2-2-2-5-6
+### La Sección Superior
 
-En la casilla de los doses, anotas un total de 6 (2+2+2). No cuentas el cinco ni el seis (que es algo que sí ocurre en la variante americana). Tú decides en qué casilla quieres anotar los puntos.
+![la parte superior del protocolo de yatzy](/images/den-ovre-delen-av-yatzy-protokollet.webp)
+*La parte superior: De Unos a Seises - aquí acumulas puntos para el bonus.*
 
-Por ahora, lo más importante es entender que en la parte superior del bloque se trata de conseguir la mayor cantidad posible de un mismo número.
+La parte superior del protocolo de puntuación se cuenta de manera diferente a la parte inferior. En la parte superior, tu objetivo es alcanzar al menos 63 puntos. Si obtienes 63 puntos o más aquí, recibes un bonus de 50 puntos.
 
-### **Paso 3: La parte inferior del protocolo**
+En la parte superior hay seis casillas: unos, doses, treses, cuatros, cincos y seises. En Yatzy, lanzas 5 dados y en cada ronda puedes lanzar tres veces. Tú eliges qué dados quieres conservar y cuáles quieres volver a lanzar. No es necesario volver a lanzar los dados si no quieres.
 
-![Nedre delen av protokollet](/images/Nedre-delen-av-protokollet.webp)
+Para rellenar las casillas de la parte superior, combinas los valores de los dados con el mismo número. Luego escribes la suma en la casilla correspondiente. Solo puedes rellenar una casilla por ronda.
 
-**Comprende la parte inferior.** Los puntos en la parte inferior son un poco más complejos. En lugar de simplemente números, encontrarás términos como ”Trío” y ”Full House” en esta sección. Estos representan diferentes combinaciones de dados, y cada combinación otorga una cantidad distinta de puntos. Es útil tomarse un momento para familiarizarse con las puntuaciones de la parte inferior antes de comenzar a jugar Yatzy, lo cual haremos en el siguiente paso.
+Puede parecer confuso al leerlo, así que veamos un ejemplo. Digamos que lanzas los dados y obtienes un cinco, un seis y tres doses después de tres lanzamientos.
 
-### **Paso 4: Pareja y Dos Parejas**
+🎲 Lanzamiento 1: 2-2-3-4-6
+🎲 Lanzamiento 2: 2-2-2-5-4
+🎲 Lanzamiento 3: 2-2-2-5-6
 
-![Par och Två par](/images/Par-och-Tva-par.webp)
+En la casilla de puntuación para los doses, escribes una suma de 6 (2+2+2). Es decir, **no** cuentas el cinco y el seis que sacaste (algo que sí se hace en la variante americana). Tú eliges en qué casilla quieres apostar.
 
-Las primeras dos casillas en la parte inferior del protocolo de Yatzy son Pareja y Dos Parejas, y son las más fáciles de entender.
+Por ahora, solo necesitas entender que en la parte superior de la tabla se trata de conseguir tantos números iguales como sea posible.
 
-Una pareja son dos dados que muestran el mismo número (por ejemplo: 2-2). Al contar los puntos aquí, solo sumas los valores de la pareja, es decir, 4 puntos (2+2).
 
-**Dos parejas** son simplemente dos dados que muestran un número y otros dos dados que muestran otro número (por ejemplo: 2-2 y 5-5). También aquí solo cuentas los dados que forman las dos parejas, es decir, 2+2+5+5 = 12 puntos. No puedes contar un **póker** (3-3-3-3) como dos parejas; las parejas deben ser diferentes.
+| Número | Puntuación |
+|:---|:---|
+| **Unos** | Suma de los unos |
+| **Doses** | Suma de los doses |
+| **Treses** | Suma de los treses |
+| **Cuatros** | Suma de los cuatros |
+| **Cincos** | Suma de los cincos |
+| **Seises** | Suma de los seises |
+  
 
-_**Dato curioso:**¡En la versión americana (Yahtzee) no existen las categorías de pareja y dos parejas!_
+### El Bono: El Número Mágico 63
 
-### **Paso 5: Trío**
+Obtienes el bonus, con un valor de **50 puntos**, si la suma en la parte superior es de **63 o más**.
 
-![Tretal](/images/Tretal.webp)
+No necesitas tener tres de cada uno – eso es solo el promedio.
 
-**El Trío consiste en obtener tres dados con el mismo número.** Es otra casilla en la parte inferior del protocolo de Yatzy. Para conseguir un Trío, necesitas lanzar tres dados que muestren el mismo valor.
+**Consejo experto:**
+Cuando tengas tres de un número, haz una marca en la casilla. Cuando los seis tengan marca, sabrás que el bonus está asegurado.
 
-Cuando logras un Trío, sumas los valores de esos tres dados. Esa suma es la puntuación total que anotarás en la casilla de **Trío**.
 
-_**Dato curioso:** En la versión americana de Yahtzee, se cuentan todos los dados, no solo los que forman el Trío._
+### La Sección Inferior
 
-Puede parecer un poco complicado, así que veamos un ejemplo. Supongamos que lanzas tres cincos, un dos y un cuatro. Esto puede contarse como un Trío. Entonces, sumas los tres cincos, lo que da un total de 15 puntos, que escribes en la casilla de **Trío**.
+![Parte inferior del protocolo](/images/Nedre-delen-av-protokollet.webp)
 
-**Dato curioso**: Si estuvieras jugando la versión americana, también sumarías el dos y el cuatro, lo que te daría una puntuación total de 21.
+*La parte inferior: Aquí acumulas puntos a través de diferentes combinaciones.*
 
-### Paso 6: Póker
+Los puntos en la parte inferior son un poco más complejos. En lugar de solo números, encontrarás "Trío" y "Full House" en esta sección. Estos representan diferentes combinaciones de dados y cada combinación da diferentes puntos.
 
-![Fyrtal](/images/Fyrtal.webp)
+| Combinación | Explicación | Puntuación |
+|:---|:---|:---|
+| **Par** | Dos iguales | Suma del par |
+| **Dos pares** | Dos pares diferentes | Suma de los cuatro |
+| **Trío** | Tres iguales | Suma de los tres |
+| **Póker** | Cuatro iguales | Suma de los cuatro |
+| **Escalera pequeña** | 1–2–3–4–5 | 15 puntos |
+| **Escalera grande** | 2–3–4–5–6 | 20 puntos |
+| **Full House** | Trío + Par | Suma de los cinco |
+| **Chance (Oportunidad)** | Cualquier mano | Suma de todos |
+| **Yatzy** | Cinco iguales | 50 puntos |
+  
+#### Pareja y Dos Parejas
+Las dos primeras casillas en la parte inferior del protocolo de Yatzy son _Par_ y _Dos Pares_ y son la parte más fácil de entender.
 
-**El póker son cuatro dados con el mismo valor.** Póker es similar al trío, y puedes escribir los puntos en esta casilla si obtienes cuatro dados con el mismo número. Luego, solo sumas los cuatro dados que forman el póker. Por ejemplo, si lanzas cuatro doses (2-2-2-2) y un seis, puedes escribir 8 puntos en la casilla de póker (el seis no se cuenta).
+Un par son dos dados que muestran el mismo número (ejemplo: 2-2). Al contar los puntos aquí, solo cuentas lo que muestra el par, es decir, 4 puntos (2+2).
 
-### Paso 7: Escalera
+Dos pares son simplemente dos dados que muestran un número y otros dos dados que muestran otro número (ejemplo: 2-2 y 5-5). También aquí, solo cuentas los dados que forman los dos pares, es decir, 2+2+5+5 = 12 puntos. **No** puedes contar un póker (3-3-3-3) como dos pares; los pares deben ser diferentes.
 
-![Escalera](/images/Escalera.webp)
+![Pareja y Dos Parejas](/images/Par-och-Tva-par.webp)
 
-**Hay dos tipos de escaleras: una pequeña y una grande.** Una _escalera pequeña_ o _escalera grande_ en Yatzy se forma cuando lanzas los cinco dados en orden numérico.
+*Ejemplo de Par y Dos Pares - dos formas diferentes de sumar puntos.*
+
+#### Trío
+
+ **Un trío son tres iguales.** Otro valor que puedes escribir en la parte inferior es _Trío_. Para conseguirlo, necesitas lanzar tres dados con el mismo valor.
+
+Cuando obtienes un Trío, sumas el valor de los dados que forman el trío. Esta será tu puntuación total para la casilla de Trío.
+
+Puede parecer un poco complicado. Así que veamos un ejemplo. Supongamos que lanzaste tres cincos, un dos y un cuatro. Esto puede contarse como Trío. Entonces, sumas los tres cincos, lo que da un **total de 15 puntos**, que escribes en la casilla de Trío.
+
+![Trío](/images/Tretal.webp)
+
+*Trío - tres dados iguales te dan la suma de esos tres.*
+
+#### Póker
+**Un póker son cuatro iguales.** El póker es similar al Trío y puedes escribir los puntos en esta casilla si obtienes cuatro dados con el mismo valor. Luego, solo sumas el valor de los cuatro dados que forman el póker. Si, por ejemplo, lanzas cuatro doses (2-2-2-2) y un seis, puedes escribir **8 puntos** en la casilla de Póker (el seis no se cuenta).
+
+![Póker](/images/Fyrtal.webp)
+
+*Póker - cuatro dados iguales, cuenta la suma de los cuatro.*
+
+#### Escalera
+**Hay dos tipos de escaleras, una pequeña (Escalera Pequeña) y una grande (Escalera Grande).** Una escalera pequeña o grande en Yatzy se cuenta cuando lanzas los cinco dados en orden numérico.
 
 🎲 Una escalera pequeña en Yatzy consiste en: un uno, un dos, un tres, un cuatro y un cinco (1-2-3-4-5).
 
 🎲 Una escalera grande consiste en: un dos, un tres, un cuatro, un cinco y un seis (2-3-4-5-6).
 
-Una escalera pequeña te otorga 15 puntos, mientras que una escalera grande te da 20 puntos.
+Una escalera pequeña da 15 puntos, mientras que una escalera grande da 20 puntos.
 
-_**Dato curioso:** En el juego Yahtzee (la versión americana), una escalera pequeña son solo cuatro dados en orden, mientras que una escalera grande son los cinco dados en orden._
+![Escalera pequeña y grande en Yatzy](/images/Liten-och-stor-stege-i-Yatzy.webp)
 
-### **Paso 8: Full House**
+*Escalera Pequeña (1-2-3-4-5) y Escalera Grande (2-3-4-5-6)*
 
-![Kåk](/images/Kak.webp)
+#### Full House
+**Un full house es un par y un trío**. Un full house consiste en un par y un trío. El par y el trío deben ser diferentes, por lo que no puedes usar cinco dados iguales como un full house (ejemplo: si sacas cinco cincos, no puedes contarlos como un par: 5-5 y un trío: 5-5-5).
 
-**Un Full House es una combinación de un par y un trío.** El Full House está formado por un par y un trío. El par y el trío deben ser diferentes, por lo que no puedes usar cinco dados iguales como un Full House (ejemplo: si lanzas cinco cincos, no puedes contarlos como un par de 5-5 y un trío de 5-5-5).
+Los puntos que obtienes por un full house se calculan según las marcas de los cinco dados. Ejemplo: Sacas 3-3-2-2-2, entonces obtienes 12 puntos.
 
-Los puntos que obtienes por un Full House se calculan sumando los valores de los cinco dados. Ejemplo: si lanzas 3-3-2-2-2, obtienes 12 puntos.
+![Full House](/images/Kak.webp)
 
-### Paso 9: Yatzy
+*Full House - una combinación de Trío y Par (p.ej., tres 5s y dos 3s)*
 
-![Yatzy](/images/Yatzy.webp)
+#### Chance (Oportunidad)
+**Cuando no puedes elegir nada más, existe la oportunidad.** Si no puedes anotar puntos en ninguna otra casilla, puedes usar la casilla de oportunidad. Puedes anotar cualquier combinación de dados en la casilla de oportunidad sumando sus valores.
 
-**Cuando todos los dados muestran el mismo número, tienes un Yatzy.** Es una de las puntuaciones más altas que puedes obtener. Recibes un Yatzy cuando los cinco dados muestran el mismo número. Un Yatzy vale 50 puntos, independientemente del valor de los dados. Ejemplos:
+Por ejemplo, digamos que lanzas dos treses y tres seises. Dos treses dan 6. Tres seises dan 18. Sumas 18 y 6 para obtener 24. Entonces puedes escribir 24 en la casilla de oportunidad.
 
-🎲 Un Yatzy de: 1-1-1-1-1 te da 50 puntos.
+Suelo ser codicioso con la oportunidad y trato de solo rellenarla si la suma de los dados es superior a 20. 
 
-🎲 Un Yatzy de: 4-4-4-4-4 te da 50 puntos.
+![Oportunidad](/images/Chans.webp)
 
-🎲 Un Yatzy de: 6-6-6-6-6 también te da 50 puntos.
+*Oportunidad - usa esta casilla cuando nada más encaje, cuenta la suma de todos los dados.*
 
-No importa qué número sea, siempre que todos los dados muestren el mismo valor.
 
-**Dato curioso**: En la versión americana del juego, obtienes puntos de bonificación adicionales por cada **Yatzy** que logras.
+#### Yatzy
+**Cuando todos los dados muestran lo mismo, tienes un Yatzy.** Un Yatzy es una de las puntuaciones más altas que puedes obtener. Obtienes un Yatzy cuando los cinco dados muestran el mismo número. Un Yatzy vale 50 puntos, independientemente del valor de los dados. Ejemplos:
 
-### **Paso 10: Oportunidad**
+🎲 Un Yatzy que consiste en: 1-1-1-1-1 da 50 puntos.
+🎲 Un Yatzy que consiste en 4-4-4-4-4 da 50 puntos.
+🎲 Un Yatzy que consiste en: 6-6-6-6-6 también da 50 puntos.
 
-![Chans](/images/Chans.webp)
+Por lo tanto, no importa qué números se muestren, siempre y cuando todos muestren el mismo número.
 
-**Cuando no puedes elegir otra casilla, tienes la Oportunidad.** Si no puedes escribir puntos en ninguna otra casilla, puedes usar la casilla de Oportunidad. Aquí puedes anotar cualquier combinación de dados sumando sus valores.
+---
 
-**Por ejemplo**, supongamos que lanzas dos treses y tres seises. Dos treses suman 6. Tres seises suman 18. Sumas 18 y 6 para obtener 24 puntos, que puedes escribir en la casilla de Oportunidad.
+## 4. Fin del Juego y Ganador
 
-### Paso 11: Suma total de puntos
+### Cuándo termina el juego
+El juego termina cuando las quince casillas/combinaciones están rellenas.
 
-![Räkna ihop poängen](/images/Rakna-ihop-poangen.webp)
 
-**Calcula tu puntuación total.** Una vez que el juego termina después de 15 rondas, es hora de sumar tu puntuación. El jugador con la puntuación más alta gana.
+### Conteo de puntos
 
-Suma los puntos de la parte superior y escríbelos en la casilla de ”Total”. Si obtuviste 63 puntos o más, añade un bono de 50 puntos.
-
-Suma también los puntos de la parte inferior. Luego, suma las puntuaciones de la parte superior e inferior para obtener tu puntuación total del juego.
-
-### **Paso 12: Decide quién empieza**
-
-![Bestäm vem som börjar](/images/Bestam-vem-som-borjar.webp)
-
-**Ahora es momento de empezar a jugar Yatzy determinando quién va primero**. Ya que sabes cómo funciona el protocolo, es hora de decidir quién comienza. Puedes jugar Yatzy solo, pero es más divertido si juegas con al menos 2 jugadores. Si son muchos, pueden dividirse en equipos. Para iniciar el juego, primero debes determinar qué jugador o equipo comenzará. Todos los participantes o equipos lanzan un dado. El jugador o equipo con la puntuación más alta empieza el juego.
-
-### **Paso 13: El primer lanzamiento**
-
-![Första kastet](/images/Forsta-kastet.webp)
-
-**Lanza los dados por primera vez.** En una partida de Yatzy, tienes hasta tres lanzamientos por turno. Puedes planear tus movimientos para obtener la mayor cantidad de puntos posible. Después de cada lanzamiento, puedes elegir conservar algunos dados y volver a lanzar los demás. No es obligatorio lanzar los dados las tres veces, pero siempre debes comenzar lanzando los cinco dados.
-
-Para explicar el proceso, tomemos un ejemplo. Supongamos que lanzas (3-3-3-1-6). Tienes un trío pequeño (3-3-3), lo que te da 9 puntos. Sin embargo, si decides volver a lanzar el uno y el seis, tienes la oportunidad de conseguir un póker, un Full House o incluso un Yatzy.
-
-### **Paso 14: Lanza los dados de nuevo**
-
-![Andra kastet](/images/Andra-kastet.webp)
-
-**Lanza los dados por segunda vez.** Si estás satisfecho con el resultado de tu primer lanzamiento, puedes anotar tus puntos en el protocolo y finalizar tu turno. Pero también puedes intentar obtener una mayor puntuación. Elige qué dados conservar y cuáles volver a lanzar.
-
-En nuestro ejemplo anterior, puede ser inteligente lanzar de nuevo el uno y el seis. Así, tienes la oportunidad de obtener un póker, un Full House o un **Yatzy**. Supongamos que lanzas el uno y el seis y obtienes un cuatro y un seis. Los dados en la mesa muestran 3-3-3-4-6. Aún tienes un trío, y te queda un último lanzamiento para intentar mejorar tu resultado sin riesgo.
-
-### **Paso 15: Lanza los dados por última vez**
-
-![3 es](/images/3-es.webp)
-
-**Lanza los dados por tercera y última vez.** Si aún no estás satisfecho con el resultado después de dos lanzamientos, tienes una última oportunidad para lanzar. Nuevamente, puedes elegir cuántos dados quieres volver a lanzar.
-
-En nuestro ejemplo anterior, decides lanzar de nuevo el cuatro y el seis. Si consigues otro tres, puedes anotarlo como un póker; si consigues dos treses, tendrás un Yatzy que te dará 50 puntos; si obtienes un par, como dos unos, tendrás un **Full House** (3-3-3-1-1); y si vuelves a obtener un cuatro y un seis, o cualquier otro número, todavía tienes un trío.
-
-También puedes optar por llenar una casilla en la parte superior de tu protocolo. Recuerda que solo puedes llenar una casilla por turno, y debes anotar algo en cada ronda. Si no puedes llenar ninguna casilla, tendrás que colocar un cero en alguna.
-
-### **Paso 16: Sigue jugando por 15 rondas**
-
-![spela i 15 rundor](/images/spela-i-15-rundor.webp)
-
-**Continúa jugando hasta que cada jugador haya completado 15 rondas.** Cada jugador lanza los dados 3 veces por ronda en un total de 15 rondas. Durante el juego, debes intentar llenar todas tus casillas en el protocolo de puntuación. Cada casilla solo puede llenarse una vez, así que piensa bien tus decisiones al decidir cómo quieres contar tus puntos.
-
-¡El jugador con la mayor puntuación cuando sumen el protocolo gana!
-
-**Verktyg:**
-
-- 5 dados
-- Un protocolo de Yatzy
-
-**Material:** Lápiz o bolígrafo
-
-![Ejemplo de puntuación en Yatzy](/images/Ejemplo-de-puntuacion-en-Yatzy.webp)
-
-## Ejemplo de puntuación en Yatzy
-
-¡Bienvenido a nuestra sección de ejemplos de puntuación de Yatzy! Aquí te guiamos paso a paso sobre cómo calcular tus puntos en una partida de Yatzy, con explicaciones claras. Ya sea que estés comenzando o solo necesites un recordatorio sobre cómo funciona todo, esta es tu mejor referencia para entender completamente el sistema de puntuación en **Yatzy**.
+1. Suma la parte superior.
+2. Añade 50 puntos de bonus si alcanzaste 63+.
+3. Suma la parte inferior.
+4. Puntuación total = Superior + Bonus + Inferior.
 
 ### Ejemplo de puntuación
+Estás jugando al Yatzy con tus amigos y después de 15 rondas es hora de sumar tus puntos. Has sacado lo siguiente:
 
-Estás jugando **Yatzy** con tus amigos y, después de 15 rondas, es hora de contar tus puntos. Tus lanzamientos han sido los siguientes:
-
-| **Tus lanzamientos** | **Tus puntos** |
+| Tus lanzamientos | Tus puntos |
 | --- | --- |
 | Tres unos | = 3 puntos (1+1+1) |
 | Cuatro doses | = 8 puntos (2+2+2+2) |
@@ -303,256 +330,234 @@ Estás jugando **Yatzy** con tus amigos y, después de 15 rondas, es hora de con
 | Tres cuatros | = 12 puntos (4+4+4) |
 | Cuatro cincos | = 20 puntos (5+5+5+5) |
 | Cuatro seises | = 24 puntos (6+6+6+6) |
-| Un par de seises | = 12 puntos (6+6) |
-| Dos pares: dos cincos y dos unos | = 12 puntos (5+5+1+1) |
+| 1 par de dos seises | = 12 puntos (6+6) |
+| 2 pares con dos cincos y dos unos | = 12 puntos (5+5+1+1) |
 | Trío con tres treses | = 9 puntos (3+3+3) |
 | Póker con cuatro doses | = 8 puntos (2+2+2+2) |
 | Escalera pequeña | = 15 puntos (1+2+3+4+5) |
 | Escalera grande | = 20 puntos (2+3+4+5+6) |
 | Full House: tres cincos y dos seises | = 27 puntos (5+5+5+6+6) |
 | Oportunidad: tres doses y dos unos | = 8 puntos (2+2+2+1+1) |
-| Yatzy con cinco treses | = 50 poäng |
+| Yatzy: cinco treses | = 50 puntos |
 
-![Ejemplo de puntuación en Yatzy 1](/images/Ejemplo-de-puntuacion-en-Yatzy-1.webp)
+![Un ejemplo de puntuación con dados que muestra los puntos en una ronda de ejemplo.](/images/yatzy-poang-rakneexempel-del-1.webp)
 
-Llenas tu **protocolo de Yatzy** (que puedes descargar gratis aquí) de la siguiente manera (consulta la tabla anterior o la imagen a continuación):
+Rellenas tu protocolo de Yatzy de la siguiente manera (ver tabla anterior o imagen siguiente):
 
-![Ejemplo de puntuación en Yatzy 2](/images/Ejemplo-de-puntuacion-en-Yatzy-2.webp)
+![Un ejemplo de puntuación en nuestro protocolo de puntuación de yatzy sobre cómo contar puntos en yatzy](/images/yatzy-poang-rakneexempel-del-2.webp)
 
-Siempre comienzas sumando la primera parte, que consiste en las primeras seis casillas. Como obtuviste un total de 79 puntos en las primeras seis casillas del **protocolo de Yatzy** (unos, doses, treses, cuatros, cincos, seises), también recibes un bono de 50 puntos. ¡Todos los jugadores que logran 63 puntos o más en las primeras seis casillas del papel de Yatzy reciben este bono!
+Siempre empiezas sumando la primera parte, que consiste en las primeras seis casillas. Dado que obtuviste un total de 79 puntos en las primeras seis casillas del protocolo de Yatzy (unos, doses, treses, cuatros, cincos, seises), también recibes un bonus de 50 puntos. ¡Todos los jugadores que obtienen 63 puntos o más en las primeras seis casillas del papel de Yatzy reciben este bonus!
 
-Así que, si conseguiste 63 puntos o más, llenas la casilla de bono con 50 puntos. Si obtuviste menos, escribes un 0. Después de esto, continúas sumando el resto de la tabla y sumas la parte superior + el bono + la parte inferior. Esto es la **suma total**.
+Así que, si obtuviste 63 puntos o más, rellenas la casilla de bonus con 50 puntos; si obtuviste menos, escribes un 0. Después de eso, continúas y sumas el resto de la tabla y sumas la parte superior + bonus + la parte inferior. Eso es la Suma o el total.
 
-¡El jugador con la puntuación más alta gana!
+Un consejo si quieres contar rápido: los puntos siempre corresponden a lo que muestran los dados. ¡La única excepción es cuando obtienes un Yatzy, ya que este **siempre vale 50 puntos**!
 
-Un consejo: si quieres contar rápido, los puntos siempre corresponden al valor que muestran los dados. La única excepción es cuando consigues un **Yatzy**, ya que este siempre vale 50 puntos.
+![Contar los puntos](/images/Rakna-ihop-poangen.webp)
 
-![Estrategias de Yatzy](/images/Estrategias-de-Yatzy.webp)
+*Contar los puntos: Parte superior + Bonus + Parte inferior = Puntuación total*
 
-## Estrategias de Yatzy
+### Ganador
 
-No es solo cuestión de suerte en Yatzy. Con la estrategia adecuada, puedes aumentar tus posibilidades de ganar. Sigue leyendo para descubrir estrategias clave que transformarán tus partidas y te ayudarán a ganar a tus amigos y familiares.
+¡El ganador es el jugador que tiene la puntuación más alta cuando todas las casillas de los jugadores están rellenas!
+  
+---
+## 5. Estrategias para Principiantes y Expertos
 
-### Apuesta siempre por un Yatzy
+Con la estrategia adecuada, puedes realmente aumentar tus posibilidades de ganar en Yatzy. Aquí tienes una recopilación de las estrategias que yo mismo utilizo. Por supuesto, hay más estrategias, pero según mi experiencia, estas son las que suelen ser beneficiosas a largo plazo.
 
-Siempre intenta conseguir un **Yatzy**. Yatzy es un juego que combina estrategia y suerte. Hay trucos que puedes usar para aumentar tus probabilidades de obtener un Yatzy en cada ronda.
+### Asegura el Bono
 
-Al principio del juego, si ves una oportunidad de conseguir un **Yatzy**, apuéstalo en lugar de buscar una puntuación menor. Cuanto antes consigas un Yatzy, mejor.
-
-### Apunta siempre al bono de 50 puntos
-
-Apunta a conseguir el bono de 50 puntos. A veces puede ser difícil decidir dónde anotar tus puntos. Sin embargo, si tienes en mente el bono de 50 puntos, esto puede ayudarte a planificar tu juego.
-
-Obtener una puntuación alta con números bajos, como unos y doses, es poco común. Por eso, es beneficioso anotar tus puntos en la parte superior si lanzas muchos doses o unos.
-
-Imagina que lanzas los dados y obtienes tres doses, un cinco y un seis (2-2-2-5-6) después de tres lanzamientos.
-
-Puedes anotar 6 puntos en la casilla de los doses o en la casilla de los seises. Debes apuntar siempre a anotar en la casilla de los **doses**. La razón es que lo máximo que podrías obtener en esa casilla serían 8 o 10 puntos. En cambio, lo máximo en la casilla de los **seises** sería 30 o 36 puntos. No querrás llenar la casilla de los seises con una puntuación baja, ya que esto te facilita obtener el bono.
+Empieza con números altos (3s–6s). Cuatro seises te dan un colchón para lanzamientos más débiles.
 
 ### Apunta a las escaleras
+**Apunta a las escaleras al principio.** Lo último que quieres es _tachar_ alguna de las casillas inferiores. Estas casillas tienen potencial para puntuaciones altas. Por lo tanto, una buena estrategia es intentar conseguir escaleras lo antes posible para luego poder centrarte en intentar conseguir un Yatzy. Sin embargo, una buena regla general es solo perseguir una escalera si ya tienes 2–3–4–5.
 
-Intenta conseguir escaleras al principio del juego. Lo último que querrás es dejar alguna de las casillas inferiores en blanco. Estas casillas tienen el potencial de darte puntuaciones altas. Por lo tanto, una buena estrategia es intentar conseguir escaleras lo antes posible para luego concentrarte en obtener un **Yatzy**. Mantente atento a combinaciones como:
+### Tres Seises Temprano
+Colócalos en **Trío** y guarda la posibilidad de más seises en la parte superior para más tarde.
+  
+### Tachar Correctamente
+- Nunca taches Yatzy.
+- La escalera pequeña es a menudo la mejor para sacrificar.
+- Piensa ofensivamente – tacha Full House antes que Póker.
 
-- dos, tres, cuatro
-- cuatro, cinco, seis
+### Apuesta siempre por un Yatzy
+**Apuesta siempre por un Yatzy.** Yatzy es tanto un juego de estrategia como de suerte. Hay trucos que puedes usar para aumentar las posibilidades de obtener un Yatzy en cada ronda.
 
-Lanza de nuevo los dados si es necesario para intentar conseguir una escalera al principio de la partida.
+Al principio del juego, si ves una oportunidad para un Yatzy, apuéstalo en lugar de una puntuación más baja. Cuanto antes consigas un Yatzy, mejor.
 
-### A veces es inteligente sacrificar el Yatzy
+### ¿Sacrificar el Yatzy?
+Aunque en la mayoría de los casos creo que deberías apostar por el Yatzy, hay casos en los que en realidad es más estratégico sacrificarlo. 
 
-En ocasiones, es mejor anotar el **Yatzy** en la parte superior del protocolo de puntuación. Conseguir un Yatzy es bastante raro, incluso con una buena estrategia. Si el juego está parejo, es tarde en la partida, y aún no has obtenido un Yatzy, puede valer la pena poner un Yatzy alto en la parte superior de la tabla de puntuación, especialmente si aún no has alcanzado el bono.
+Conseguir un Yatzy es bastante improbable, incluso con una buena estrategia (aproximadamente 0,013% de probabilidad). Si la puntuación está reñida, es tarde en el juego y aún no has conseguido un Yatzy, puede valer la pena poner el Yatzy alto que obtengas **en la parte superior de la tabla de puntuación**. ¡Al menos si **no** has conseguido los puntos para obtener un bonus!
 
-Colocar el Yatzy en la parte superior suele garantizar que consigas el bono, lo que podría significar una mayor puntuación. Por ejemplo, cinco seises más el bono de 50 puntos te darán 80 puntos, mientras que un **Yatzy** solo vale 50 puntos.
+Al poner el Yatzy en la parte superior, casi siempre garantizas que obtendrás el bonus, lo que podría significar una puntuación más alta. Por ejemplo, cinco seises más el bonus de 50 puntos te dan ¡80(!) puntos. Un Yatzy solo vale 50.
+ 
 
-![Historia de yatzy](/images/Historia-de-yatzy.webp)
+### Estrategia Experta: Adapta el juego
 
-## Historia de Yatzy
+Tu estrategia debe cambiar dependiendo de cuántas casillas queden. 
 
-**Yatzy** es un juego que es apreciado por jóvenes y mayores en todo el mundo. Todo lo que necesitas para divertirte son cinco dados, papel y un lápiz. Pero, ¿quién inventó realmente el juego? Vamos a descubrirlo.
+**Juego Temprano (Rondas 1-5): Juega Ofensivo.** Aquí puedes permitirte arriesgar. Rompe un par bajo (como 2s o 3s) para perseguir una escalera o un par más alto. Apunta alto en 'Seises' y 'Cincos'. Si fallas, tienes muchas casillas seguras en las que aterrizar.
 
-### Historia del juego Yatzy
+**Juego Medio (Rondas 6-10):** Ahora el protocolo empieza a llenarse. Enfócate al 100% en asegurar tus 63 puntos para el bonus. Toma unos 12 puntos seguros en 'Cuatros' en lugar de arriesgarte por un Full House.
 
-**Yahtzee** (conocido como **Yatzy** en español) fue creado por una pareja adinerada de Canadá para jugarlo en su yate. Cuando invitaron a sus amigos a bordo, les enseñaron cómo jugar este juego llamado “Yacht”. A sus amigos les encantó tanto el juego que todos querían tener una copia, ¡y así nació la idea de convertirlo en un juego oficial!
+**Juego Final (Rondas 11-15)**: Ahora todo se trata de evitar los ceros. Es una victoria conseguir 2 puntos en 'Unos' si la alternativa es tachar 'Trío'. Usa tu casilla de 'Oportunidad' para capturar un buen lanzamiento (cualquier cosa por encima de 20 puntos es buena) que no encaje en ningún otro sitio.
 
-En 1956, la pareja contactó al Sr. Edwin S. Lowe, el hombre que había hecho una fortuna vendiendo juegos de Bingo en la década de 1920. Le pidieron que produjera algunas copias del juego para regalar a sus amigos. Lowe se enamoró del juego y les ofreció comprar los derechos. La pareja aceptó vender los derechos a cambio de los primeros 1.000 juegos producidos, para poder cumplir con el deseo de sus amigos de tener su propio juego de Yatzy. Lowe cambió el nombre del juego a **Yahtzee**.
+---
 
-### El lanzamiento de Yatzy
+## 6. Variantes de Yatzy
+Además de las reglas clásicas, existen varias variantes de Yatzy. Aquí están las variaciones más populares que conozco:
 
-A pesar de todos los esfuerzos del Sr. Lowe por comercializar el juego, las ventas no fueron buenas el primer año. Simplemente no se podía describir adecuadamente en un anuncio; el juego necesitaba experimentarse para ser apreciado. Por eso, el Sr. Lowe comenzó a organizar fiestas de Yahtzee, y pronto el juego se volvió popular gracias al boca a boca.
+### Maxi Yatzy
+Maxi Yatzy es una variante ampliada del Yatzy normal que se juega con **seis dados** y un protocolo con más combinaciones.
 
-### La adquisición por Milton Bradley
+-   **Número de participantes:** 2+
+    
+-   **Edad:** Desde 5 años
+    
+-   **Necesitas:** 6 dados, protocolo de Maxi Yatzy, lápiz.
+    
 
-La empresa Milton Bradley adquirió E. S. Lowe Company y los derechos de **Yahtzee** en 1973. Hoy en día, se venden más de 50 millones de juegos de Yatzy al año, y se estima que alrededor de 100 millones de personas juegan a Yatzy regularmente.
+#### Cómo se juega
 
-### El éxito de Yatzy
+El objetivo es conseguir tantos puntos como sea posible rellenando las diferentes combinaciones del protocolo. El juego sigue las reglas normales de Yatzy (hasta tres lanzamientos por turno) con algunas adiciones importantes:
 
-**Yatzy** ha ganado los corazones de millones de personas y celebró su 60º aniversario en 2016, todo gracias a personas como tú que siguen difundiendo el juego.
+1.  **Seis Dados:** Lanzas con los seis dados.
+    
+2.  **Guardar lanzamientos:** Si estás satisfecho con tu resultado después de uno o dos lanzamientos, puedes guardar los lanzamientos restantes. Estos lanzamientos guardados pueden usarse para obtener lanzamientos extra (además de los tres habituales) en rondas posteriores.
+    
+3.  **Requisito de pares diferentes:** Para combinaciones como "Dos Pares", "Tres Pares", "Full House" y "Torre", los pares/tríos que los componen deben ser de números diferentes.
+    
+    **Ejemplo:** "Tres Pares" como **6-6, 5-5, 2-2** es válido. Sin embargo, **6-6, 6-6, 2-2** no es válido como Tres Pares (son solo dos números diferentes).
+        
 
-El éxito de Yatzy se debe en gran parte a sus reglas sencillas, que hacen que toda la familia pueda disfrutarlo. Es esta simplicidad la que atrae a tantos a jugar **Yatzy** una y otra vez.
+#### Combinaciones de Maxi Yatzy
 
-![skillnaden mellan yatzy och yahtzee](/images/skillnaden-mellan-yatzy-och-yahtzee.webp)
+El sexto dado significa, por supuesto, más combinaciones. Estas son las combinaciones que existen en Maxi-Yatzy:
+| Combinación | Descripción | Puntuación |
+|:---|:---|:---|
+| **UNOS – SEISES** | Suma de los dados que elijas. | Suma |
+| **BONUS** | Si obtienes 84 puntos o más en la mitad superior. | 100 puntos |
+| **UN PAR** | Dos dados con el mismo valor. | Suma |
+| **DOS PARES** | Dos pares con valores diferentes. | Suma |
+| **TRES PARES** | Tres pares con valores diferentes. | Suma |
+| **TRÍO** | Tres dados con el mismo valor. | Suma |
+| **PÓKER** | Cuatro dados con el mismo valor. | Suma |
+| **QUINTUPLE** | Cinco dados con el mismo valor. | Suma |
+| **ESCALERA PEQUEÑA** | Los dados muestran 1-2-3-4-5. | 15 puntos |
+| **ESCALERA GRANDE** | Los dados muestran 2-3-4-5-6. | 20 puntos |
+| **ESCALERA COMPLETA** | Los dados muestran 1-2-3-4-5-6. | 21 puntos |
+| **FULL HOUSE** | Un trío y un par. | Suma |
+| **CASA** | Dos tríos con valores diferentes. | Suma |
+| **TORRE** | Un póker y un par con valores diferentes. | Suma |
+| **CHANCE** | Suma de los seis dados. | Suma |
+| **MAXI YATZY** | Los seis dados muestran el mismo valor. | 100 puntos |
 
-## ¿En qué se diferencia Yatzy de Yahtzee?
+#### Ganador
 
-**Yatzy**, tal como lo conocemos, tiene algunas características únicas que lo distinguen del original **Yahtzee** de América del Norte. En general, los juegos son muy similares, pero echemos un vistazo más de cerca a las diferencias.
+Cada categoría en el protocolo solo puede usarse una vez. Si un lanzamiento no encaja en ningún sitio, se debe tachar una categoría (ponerla a 0). El jugador con la puntuación total más alta después de que todas las categorías se hayan rellenado gana.
 
-### No existen ”Par” ni ”Dos Pares”
+#### Protocolo de puntuación de Maxi Yatzy
+Descarga gratis una página con dos protocolos de Maxi Yatzy. Si necesitas más protocolos, ¡simplemente imprímela más veces! El protocolo es de tamaño A4 y contiene 2 protocolos en color con ejemplos de combinaciones.
 
-La primera diferencia que notarás al jugar **Yahtzee** en lugar de **Yatzy** es que no hay casillas en la tabla de puntuación para **Par** y **Dos Pares**. Esto se debe a que en Yahtzee, esta combinación simplemente no existe.
+[Descargar protocolo de Yatzy Maxi (PDF)](/pdfs/Maxi-yatzy-protokoll-yatzyregler.com_.pdf)
 
-### Cálculo de puntos para Trío, Póker y Full House
 
-En lo que respecta al cálculo de puntos para **Trío** y **Póker**, también hay diferencias. Si en Suecia lanzas 5-5-5-5-6, obtienes 15 puntos por un **Trío** y 20 puntos por un **Póker**. Pero en **Yahtzee**, sumas todos los dados, lo que significa que tanto el **Trío** como el **Póker** con esta combinación te dan 26 puntos.
+### Yatzy con obligación (Tvångs-Yatzy)
 
-En cuanto a un **Full House** en Yahtzee, siempre obtienes 25 puntos sin importar qué números tengas, mientras que en Yatzy sumas la cantidad total de puntos de los dados.
+Las reglas son las mismas que en el Yatzy normal pero con una diferencia: debes rellenar el protocolo en orden, de arriba abajo. No puedes guardar un buen lanzamiento para más tarde, sino que debes rellenar o tachar en cada ronda. 
 
-### Escaleras en Yatzy
+### Yatzy para Niños
+Reglas simplificadas y menos combinaciones, a menudo con imágenes. Las combinaciones son más fáciles de entender y están adaptadas para niños que aún no saben contar puntos del todo. 
 
-Una **Escalera Pequeña** en Yatzy siempre consiste en 1-2-3-4-5, mientras que una **Escalera Grande** siempre es 2-3-4-5-6. En otras palabras, todas las cinco tiradas cuentan.
+#### Yatzy para Niños: Puntos, reglas y combinaciones
+Las combinaciones y reglas específicas pueden diferir entre fabricantes. Las combinaciones suelen ser así: 
 
-### Escalera Pequeña en Yahtzee
+| Combinación | Descripción | Puntuación |
+|:---|:---|:---|
+| 2 Pares | Dos pares de diferentes colores/imágenes. | 2 puntos |
+| Trío | Tres dados del mismo color/imagen. | 3 puntos |
+| Full House | Un trío y un par. | 5 puntos |
+| Póker | Cuatro dados del mismo color/imagen. | 7 puntos |
+| Yatzy | Los cinco dados del mismo color/imagen. | 10 puntos |
+ 
+#### Protocolo de puntuación gratis para Yatzy de niños
+Aquí abajo puedes descargar nuestro protocolo de Yatzy para Niños totalmente gratis. Puedes elegir entre una versión grande que cubre una página A4 normal (y es más fácil de rellenar) o una página A4 con cuatro protocolos de Yatzy para niños más pequeños, lo que te permite ahorrar tanto papel como tinta.
 
-En **Yahtzee**, una **Escalera Pequeña** solo necesita cuatro dados. Esto hace que sea más fácil de obtener y puede lograrse con una de las siguientes combinaciones:
+[Descargar 1 protocolo de Yatzy para niños en color](/pdfs/Barn-Yatzy-protokoll-en-sida.pdf)
 
-- 1-2-3-4
-- 2-3-4-5
-- 3-4-5-6
+[Descargar 4 protocolos de Yatzy para niños (PDF)](/pdfs/barn-yatzy-protokoll-4-stycken.pdf)
 
-Una **Escalera Pequeña** en Yahtzee también otorga 30 puntos, mientras que en Yatzy solo da 15 puntos.
+---
+## 7. Resumen
+Ahora tienes todo lo necesario para salir victorioso de una partida de Yatzy. Si nunca has jugado antes, puede que necesites un par de rondas de prueba para cogerle el truco. Una vez que te hayas familiarizado con las reglas y aprendido las combinaciones, en realidad es bastante fácil ganar. Al final de la página encontrarás una guía rápida que puedes usar para recordarte las reglas generales y estrategias que he compartido. ¡Mucha suerte!
 
-### Escalera Grande en Yahtzee
+---
+## 8. Preguntas Frecuentes (FAQ)
 
-Una **Escalera Grande** en **Yatzy** siempre es 2-3-4-5-6, lo que significa que solo hay una opción. Sin embargo, en Yahtzee, una **Escalera Grande** puede ser cualquier secuencia de cinco números, lo que te da dos oportunidades para obtenerla:
+**P: ¿Cuántos puntos para el bonus?**
 
-- 1-2-3-4-5
-- 2-3-4-5-6
+R: 63 puntos o más en la parte superior = 50 puntos de bonus.
 
-Como puedes ver, una **Escalera Pequeña** en Yatzy es equivalente a una **Escalera Grande** en Yahtzee.
 
-La puntuación que obtienes por una **Escalera Grande** es de 40 puntos en Yahtzee, mientras que en Yatzy es de 20 puntos.
+**P: ¿Qué pasa si la casilla de Yatzy ya está llena?**
 
-### Diferencia en los puntos de bonificación
+R: Debes usar el lanzamiento en otra casilla, o tachar.
+  
 
-Otra diferencia notable está en los puntos de bonificación. Mientras que en **Yatzy** te recompensan con 50 puntos de bonificación, los jugadores de **Yahtzee** solo reciben 35 puntos.
+**P: ¿Cuál es la puntuación máxima en Yatzy?**
 
-Sin embargo, en Yahtzee puedes obtener puntos de bonificación adicionales si ya has conseguido un **Yahtzee** (cinco dados con el mismo número). Por cada Yahtzee adicional, ¡obtienes 100 puntos extra! Pero esto solo ocurre si ya has anotado un Yahtzee en la tabla de puntuación.
+R: 374 es la puntuación máxima teórica. Es decir, si juegas según las reglas, no puedes sumar más puntos que eso. Es muy raro ver puntuaciones tan altas; en la mayoría de las partidas, 250–300 puntos suele ser una puntuación total impresionante. 
 
-![Preguntas frecuentes sobre las reglas de Yatzy](/images/Preguntas-frecuentes-sobre-las-reglas-de-Yatzy.webp)
 
-## Preguntas frecuentes sobre las reglas de Yatzy
+**P: ¿Se puede usar un Trío como Par?**
 
-¡Bienvenido a nuestra sección de preguntas frecuentes en **Yatzyregler.com**/ **es**! Aquí hemos recopilado las preguntas y respuestas más frecuentes para ofrecerte respuestas rápidas y claras sobre **Yatzy**. Ya seas principiante o un jugador experimentado, aquí encontrarás información útil que puede mejorar tu juego. ¡Sumérgete y descubre las respuestas a todas tus dudas sobre **Yatzy**!
+R: Sí, tú eliges qué dados cuentas.
 
-### Preguntas frecuentes
 
-### **¿Qué es Yatzy?**
+**P: ¿Cuándo se usa Chance (Oportunidad)?**
 
-**Yatzy** es un popular juego de dados donde los jugadores lanzan cinco dados para intentar obtener diferentes combinaciones y maximizar su puntuación.
+R: Cuando nada más encaja o en lanzamientos altos. Yo nunca tomo Chance por menos de 20 puntos.
 
-### **¿Cuántos dados se usan en Yatzy?**
+  
 
-En Yatzy siempre se utilizan cinco dados.
+**P: ¿Diferencia entre Full House y Dos Pares?**
 
-### **¿Cómo se juega a Yatzy?**
+R: Full House = Trío + Par. Dos Pares = dos pares diferentes.
 
-Yatzy se juega lanzando los dados y tratando de obtener diferentes combinaciones. El objetivo es acumular la mayor cantidad de puntos posible a través de estas combinaciones.
+  
 
-### **¿Cuántos puntos de bonificación se obtienen en Yatzy?**
+**P: ¿Cuál es la probabilidad de sacar Yatzy en un lanzamiento?**
 
-Para recibir el bono en Yatzy, necesitas acumular 63 puntos o más en la sección superior, lo que te otorga un bono de 50 puntos.
+R: 1 entre 1296 (0,08 %).
 
-### **¿Cuándo se obtiene el bono en Yatzy?**
+  
 
-Obtienes el bono en Yatzy cuando has sumado 63 puntos o más en la sección superior de la hoja de puntuación.
+**P: ¿Quién inventó el Yatzy?**
 
-### **¿Cuántos puntos vale un Yatzy?**
+R: Una pareja canadiense en 1954. Se popularizó a través de Edwin S. Lowe, en 1956.
 
-Un Yatzy, que ocurre cuando todos los dados muestran el mismo número, vale 50 puntos, independientemente de los números que aparezcan en los dados.
 
-### **¿Qué significa Full House en Yatzy?**
+---
+## 9. Guía Rápida y Glosario
 
-Un Full House en Yatzy consiste en un trío (tres dados con el mismo número) y una pareja (dos dados con el mismo número). Los números del trío y la pareja no deben ser los mismos. La puntuación se calcula sumando todos los dados.
 
-### **¿Cómo se obtiene un Yatzy?**
+### Guía Rápida (Yatzy normal)
 
-Para conseguir un Yatzy, los cinco dados deben mostrar el mismo número.
+- Trabaja para el bonus desde el principio. Vale 50 puntos. 
+- Unos = casilla de rescate.
+- Tres seises temprano → Trío.
 
-### **¿Cuál es la puntuación máxima que se puede obtener en Yatzy?**
 
-La puntuación máxima en Yatzy es de 374 puntos.
+### Glosario
 
-### **¿Qué significa Chans (Oportunidad) en Yatzy?**
+| Término | Explicación |
+|:---|:---|
+| **Guardar** | Conservar dados entre lanzamientos. |
+| **Protocolo** | La hoja de puntuación. |
+| **Tachar** | Rellenar una casilla con 0 puntos. |
+| **Bonus** | +50 puntos al alcanzar 63+. |
+| **Casilla de rescate** | Casilla para sacrificar en un mal lanzamiento. |
 
-Chans (Oportunidad)en Yatzy es una casilla que puedes usar como quieras. Sumas los puntos de los cinco dados, sin importar si forman una combinación o no, y sin importar qué números muestran. En otras palabras, puedes escribir cualquier valor en la casilla de Chans.
-
-### **¿Qué significa Yatzy?**
-
-La palabra “Yatzy” es un término inventado que proviene del nombre en inglés Yahtzee, que también es inventado. Yahtzee proviene de la palabra ”yacht”, que es un gran barco, y el juego se llama así porque fue inventado por una pareja a bordo de un yate.
-
-### **¿Cuánto vale un Yatzy?**
-
-Un Yatzy, donde todos los dados muestran el mismo número, vale 50 puntos.
-
-### **¿Qué es Yahtzee?**
-
-Yahtzee es la versión norteamericana de Yatzy, que es el juego original en el que se basa Yatzy.
-
-### **¿Cuál es la diferencia entre Yatzy y Yahtzee?**
-
-Las diferencias entre los juegos incluyen que **Yatzy** tiene dos combinaciones adicionales, las escaleras se calculan de manera diferente, y la puntuación y los bonos se calculan de otro modo. Fuera de estas diferencias, los juegos son muy similares.
-
-Esperamos que esta sección de preguntas frecuentes resuelva tus inquietudes. Si tienes más preguntas sobre **Yatzy**, no dudes en contactarnos.
-
-## Protocolo de Yatzy gratis
-
-A continuación, encontrarás diferentes **protocolos de Yatzy** que puedes descargar completamente gratis. En **yatzyregler.com**, hemos creado uno en color y otro en blanco y negro. Si no tienes una impresora a color, el protocolo en blanco y negro puede verse mejor.
-
-También puedes elegir imprimir los protocolos de Yatzy en diferentes tamaños. Hemos creado dos tamaños: grande y pequeño. El grande ocupa una hoja A4 completa. Si prefieres el más pequeño, puedes imprimir cuatro protocolos de Yatzy en una hoja A4.
-
-![Yatzy protokoll färg 1 st](/images/Yatzy-protokoll-farg-1-st.webp)
-
-## Protocolo de Yatzy en color – 1 por página
-
-Imprime nuestro protocolo de Yatzy grande en color. El protocolo ocupa una hoja A4 completa y es perfecto si deseas más espacio para escribir. Descarga el PDF gratis e imprímelo como de costumbre.
-
-[**Descargar protocolo de Yatzy en color**](/pdfs/yatzy-protokoll-farg.pdf)
-
-![Yatzy protokoll färg 4 st](/images/Yatzy-protokoll-farg-4-st.webp)
-
-## Protocolo de Yatzy en color – 4 por página
-
-Si deseas ahorrar papel y ser más ecológico, nuestro protocolo de Yatzy pequeño en color es una mejor opción. Aquí obtendrás cuatro protocolos en una hoja A4, con margen para cortarlos fácilmente. Descarga el PDF gratis e imprímelo como de costumbre.
-
-[**Descargar 4 protocolos de Yatzy en color (PDF)**](/pdfs/Yatzy-protokoll-4-st-farg.pdf)
-
-![Yatzy protokoll svartvit 1 st](/images/Yatzy-protokoll-svartvit-1-st.webp)
-
-## Protocolo de Yatzy en blanco y negro – 1 por página
-
-También hemos creado un protocolo de Yatzy en blanco y negro. El protocolo ocupa una hoja A4 completa y es perfecto si deseas más espacio para escribir pero no tienes una impresora a color. Descarga el PDF gratis e imprímelo como de costumbre.
-
-[**Descargar protocolo de Yatzy en blanco y negro**](/pdfs/yatzy-protokoll-farg.pdf)
-
-![Yatzy protokoll svartvit 4 st](/images/Yatzy-protokoll-svartvit-4-st.webp)
-
-## Protocolo de Yatzy en blanco y negro – 4 por página
-
-También ofrecemos un protocolo de Yatzy pequeño en blanco y negro que puedes descargar gratis aquí. Una hoja A4 contiene cuatro protocolos en blanco y negro, con margen para cortarlos fácilmente. Descarga el PDF gratis e imprímelo como de costumbre.
-
-[**Descargar 4 protocolos en blanco y negro (PDF)**](/pdfs/Yatzy-protokoll-4-st-farg.pdf)
-
-## Artículos sobre Yatzy
-
-Si quieres profundizar aún más en **Yatzy**, puedes hacerlo con nuestros artículos. A continuación, encontrarás una selección de todos los artículos que tenemos en el sitio.
-
-¡Gracias por visitar nuestra página sobre las reglas de Yatzy! Aquí te hemos proporcionado todo lo que necesitas saber para dominar este clásico juego de dados: las reglas oficiales, algunos consejos estratégicos, una mirada profunda a la rica historia de Yatzy y las emocionantes diferencias entre Yatzy y Yahtzee. Ahora que estás armado con conocimiento, es hora de lanzar los dados y disfrutar de algunas inolvidables partidas.
-
-¡Buena suerte y que gane el mejor jugador de Yatzy! 🎲🌟
-
-## Ayúdanos a mejorar
-
-Queremos agradecer de todo corazón a todos los que se han involucrado en nuestra página. Tus comentarios y sugerencias son invaluables y nos ayudan a mejorar y actualizar continuamente nuestro contenido sobre Yatzy. Ya sea que hayas aportado ideas, informado de errores, o simplemente hayas disfrutado de nuestra página, tu participación marca una gran diferencia. Esperamos seguir recibiendo tu feedback para que podamos seguir siendo la principal fuente de información sobre las reglas de Yatzy.
-
-Para aquellos que disfrutan de la emoción de Yatzy, te recomendamos visitar mga casino, donde encontrarás los mejores casinos de Malta. Aquí podrás jugar en casinos sin licencia sueca y sin Spelpaus, con ganancias libres de impuestos.
-
-[Rulla till toppen](/es/ "Rulla till toppen")
+ 
+---
