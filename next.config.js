@@ -14,26 +14,37 @@ const nextConfig = {
         destination: '/en',
         permanent: true, // 301 redirect
       },
-      // Redirect all Swedish casino pages to the main casino page
+      // Redirect all Swedish casino pages to the casino subdomain
       {
         source: '/casino-pa-natet',
-        destination: '/casino-utan-svensk-licens/',
+        destination: 'https://casino.yatzyregler.com',
         permanent: true, // 301 redirect
       },
       {
         source: '/casino-med-swish',
-        destination: '/casino-utan-svensk-licens/',
+        destination: 'https://casino.yatzyregler.com',
         permanent: true,
       },
       {
         source: '/mga-casino',
-        destination: '/casino-utan-svensk-licens/',
+        destination: 'https://casino.yatzyregler.com',
         permanent: true,
       },
       {
         source: '/vad-ar-nytt-i-kasinovarlden-ta-reda-pa-det-med-casinon-com',
-        destination: '/casino-utan-svensk-licens/',
+        destination: 'https://casino.yatzyregler.com',
         permanent: true,
+      },
+      // Redirect main casino page to subdomain
+      {
+        source: '/casino-utan-svensk-licens',
+        destination: 'https://casino.yatzyregler.com',
+        permanent: true, // 301 redirect
+      },
+      {
+        source: '/casino-utan-svensk-licens/',
+        destination: 'https://casino.yatzyregler.com',
+        permanent: true, // 301 redirect
       },
     ];
   },
