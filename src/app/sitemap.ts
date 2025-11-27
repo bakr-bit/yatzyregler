@@ -36,8 +36,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // Skip index.md as it's the homepage
     if (slug === 'index') continue;
 
-    // Skip old unused files
+    // Skip old unused files and pages that redirect to subdomains
     if (slug === 'cusl' || slug === 'casino_utan_svensk_licens_2025_svenska') continue;
+    if (slug === 'casino-utan-svensk-licens' || slug === 'casino-pa-natet' || slug === 'casino-med-swish' || slug === 'mga-casino') continue;
 
     // Set priority based on page importance
     let priority = 0.6;
@@ -49,7 +50,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency = 'monthly';
     }
     // Important content pages
-    else if (slug === 'casino-utan-svensk-licens' || slug === 'faq' || slug === 'artiklar') {
+    else if (slug === 'faq' || slug === 'artiklar') {
       priority = 0.7;
       changeFrequency = 'weekly';
     }
