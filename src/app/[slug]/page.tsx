@@ -69,15 +69,6 @@ export async function generateMetadata({ params }: PageProps) {
       },
       alternates: {
         canonical: `https://www.yatzyregler.com/${slug}`,
-        languages: {
-          'sv': 'https://www.yatzyregler.com/',
-          'da': 'https://www.yatzyregler.com/da',
-          'no': 'https://www.yatzyregler.com/no',
-          'fi': 'https://www.yatzyregler.com/fi',
-          'en': 'https://www.yatzyregler.com/en',
-          'es': 'https://www.yatzyregler.com/es',
-          'x-default': 'https://www.yatzyregler.com/',
-        },
       },
     };
   }
@@ -95,20 +86,6 @@ export async function generateMetadata({ params }: PageProps) {
   if (!content) {
     return { title: 'Page Not Found' };
   }
-
-  // Check if translations exist in all locales
-  const languages: Record<string, string> = {};
-  const allLocales = ['sv', 'da', 'no', 'fi', 'en', 'es'];
-
-  for (const locale of allLocales) {
-    const translatedContent = await getContentBySlug(slug, locale);
-    if (translatedContent) {
-      languages[locale] = `https://www.yatzyregler.com/${slug}`;
-    }
-  }
-
-  // Set x-default to the primary locale version
-  languages['x-default'] = `https://www.yatzyregler.com/${slug}`;
 
   // Map locale to OpenGraph locale format
   const ogLocaleMap: Record<string, string> = {
@@ -138,7 +115,6 @@ export async function generateMetadata({ params }: PageProps) {
     },
     alternates: {
       canonical: `https://www.yatzyregler.com/${slug}`,
-      languages,
     },
   };
 }
